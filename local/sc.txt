@@ -1,0 +1,3080 @@
+!TEM 博丽灵梦符卡名
+CMX-1 灵符「梦想妙珠」
+CMX-2 梦符「封魔阵」
+CMX-3 宝符「阴阳宝玉」
+CMX-4 神灵「梦想封印」
+CMX-5 神技「八方鬼缚阵」
+CMX-6 宝具「阴阳鬼神玉」
+CMX-K1 博丽护符
+CMX-K2 升天蹴
+CMX-K3 警醒阵
+CMX-K4 幻想空想穴
+CMX-S1 符之一「梦想妙珠连」
+CMX-S2 符之二「阴阳散华」
+CMX-S3 符之三「魔净闪结」
+CMX-S4 力符「阴阳玉将」
+CMX-S5 梦战「幻想之月」
+CMX-S6 无题「飞翔于天空的不可思议的巫女」
+DLD-B1 「违背常识的另一侧」
+DLD-B2 「萃灵花」
+DLD-B3 「乌鸦的暗影」
+DLD-S1 「顶门紫针」
+DLD-S2 「鬼神磷火术」
+DLD-S3 「深山颪」
+DSWHT-1 灵札「报刊推销团降服」
+DSWHT-2 结界「狗仔队击退结界」
+DSWHT-3 梦符「梦想亚空穴」
+EMRJ-H1 「偷拍者降服极限火花」
+EMRJ-H2 「来自背后的偷拍者降服」
+EMRJ-H3 「未经许可的弹幕禁止摄影」
+FSL-S1 Homing Amulet
+FSL-S2 封魔针
+FSL-S3 妖怪破坏者
+FXT-1 灵符「梦想妙珠」
+FXT-2 神灵「梦想封印」
+FXT-3 神技「八方鬼缚阵」
+FXT-4 珠符「明珠暗投」
+FXT-5 宝符「阴阳宝玉」
+FXT-6 宝具「阴阳鬼神玉」
+FXT-7 神技「天霸风神脚」
+FXT-8 「梦想天生」
+FXT-K1 博丽护符
+FXT-K2 警醒阵
+FXT-K3 亚空穴
+FXT-K4 升天脚
+FXT-K5 妖怪破坏者
+FXT-K6 紧缚阵
+FXT-K7 封魔亚空穴
+FXT-K8 抄地升天脚
+FXT-K9 扩散灵符
+FXT-K10 常置阵
+FXT-K11 刹那亚空穴
+FXT-S1 祈愿「祛除厄运之祈愿」
+FXT-S2 宝符「跳跃的阴阳玉」
+FXT-S3 梦境「二重大结界」
+FXT-S4 光灵「神灵宝珠」
+FXT-S5 「潜伏在境界内侧的灵与不可思议的巫女」
+FXTZ-1 梦符「封魔阵」
+FXTZ-2 结界「扩散结界」
+FXTZ-K1 祈雨之仪
+FXTZ-S1 御守「妖怪拘禁符」
+FXTZ-S2 灵符「梦想封印　圆」
+FXTZ-S3 神灵「梦想封印　瞬」
+FXTZ-S4 「最凶恶的吓人巫女玉」
+GXS-B 灵符「梦想封印」
+GXS-S Homing Amulet
+GXS-SS Persuasion Needle
+GZZ-B 灵符「梦想封印」
+GZZ-S Homing Amulet
+GZZ-SS Persuasion Needle
+HMX-B1 灵符「梦想封印」
+HMX-B2 梦符「封魔阵」
+HMX-S1 「Homing Amulet」
+HMX-S2 「Persuasion Needle」
+HYZ-B 灵符「博丽幻影」
+HYZ-C1 博丽护符
+HYZ-C2 灵符「阴阳印」
+HYZ-C3 灵符「梦想封印」
+HYZ-EX 阴阳玉
+HZC-B1 妖器「无情的驱魔棒」
+HZC-B2 灵符「梦想封印」
+HZC-S1 Homing Amulet
+HZC-S1S 贪婪大币
+HZC-S2 Homing Amulet
+HZC-S2S Persuasion Needle
+LWC-1 梦符「幻想一重」
+MYC-1 「大祸津日」
+PYH-1 灵符「梦想封印」
+PYH-2 神技「八方龙杀阵」
+PYH-3 宝具「阴阳飞鸟井」
+PYH-K1 滞空三角跃
+PYH-K2 妖怪破坏者
+PYH-K3 即妙神域札
+PYH-K4 空中升天脚
+PYH-K5 亚空点穴
+PYH-OLW|PYH-TLW ＊在那隙间里面居然有个巫女！＊
+PYH-O|PYH-T 「博丽大结界的隙间」
+PYH-S1 灵鹰符「飞鹰的梦想封印狩猎」
+PYH-S2 风灵符「磐舟土器封印」
+PYH-S3 星灵符「Sprinkle Star封印」
+PYH-S4 雷灵符「务光的雷弹梦想封印」
+PYH-S5 龙蹴符「巨龙飞鸟井之踢」
+PYH-S6 针星符「封印月卿之针火花」
+PYH-S7 「这不知是第几次的生命，梦想封印吧」
+PYH-S8 灵符「梦想封印　梦限」
+PYH-S9 「完全凭依与梦想封印」
+PYH-S10 「凭坐（主役）与神灵（下仆）的境界」
+PYH-S11 「最强最棒的异变解决巫女」
+SLM-B 灵符「梦想封印」
+SLM-S Homing Amulet
+SLM-SS Persuasion Needle
+SML-1 灵符「梦想封印」
+SML-2 神技「八方龙杀阵」
+SML-3 宝具「阴阳飞鸟井」
+SML-EX1 针符「封印月卿之针」
+SML-EX2 结界「粗暴的世界裂隙」
+SML-EX3 结界「幻想Boundary Crack」
+SML-K1 滞空三角跃
+SML-K2 空中升天脚
+SML-K3 妖怪破坏者
+SML-K4 亚空点穴
+SML-K5 即妙神域札
+SML-O 博丽大结界的隙间
+SML-OLW ＊在那隙间里面居然有个巫女！＊
+SML-S1 结界「人至之处的青山」
+TKZ-B 灵符「梦想樱花封印」
+TXG-1 神签「犯规结界」
+TXG-2 「Persuasion Needle」
+TXGGR-1 「犯规结界」
+TXGGR-2 「最接近天堂的赛钱」
+TXGGR-3 「弹幕富翁」
+XLC-B1 梦符「退魔符乱舞」
+XLC-B2 灵符「梦想封印」
+XLC-S1 Persuasion Needle
+XLC-S2 Homing Amulet
+XQL-1 灵符「梦想封印」
+XQL-2 神技「八方龙杀阵」
+XQL-3 宝具「阴阳飞鸟井」
+XQL-K1 妖怪破坏者
+XQL-K2 即妙神域札
+XQL-K3 空中升天脚
+XQL-K4 亚空点穴
+XQL-K5 阴阳弹
+XQL-K6 前方安全札
+XQL-K7 滞空三角跃
+XQL-LW 「梦想天生」
+XQL-S1 御札「神社繁盛祈愿札」
+XQL-S2 御札「梦幻的高速祈愿札」
+XQL-S3 御札「对妖怪方位清除」
+XQL-S4 「信仰心增加祈愿之仪」
+XQL-S5 「二大宗教九字护身法」
+XQL-S6 「面灵气大降服」
+XQL-S7 「最后的三位一体宗教」
+YYC-1 梦符「二重结界」
+YYC-2 梦境「二重大结界」
+YYC-3 灵符「梦想封印　散」
+YYC-4 散灵「梦想封印　寂」
+YYC-5 梦符「封魔阵」
+YYC-6 神技「八方鬼缚阵」
+YYC-7 神技「八方龙杀阵」
+YYC-8 灵符「梦想封印　集」
+YYC-9 回灵「梦想封印　侘」
+YYC-10 境界「二重弹幕结界」
+YYC-11 大结界「博丽弹幕结界」
+YYC-12 神灵「梦想封印　瞬」
+YYC-B 灵符「梦想妙珠」
+YYC-L 神灵「梦想封印　瞬」
+YYC-LW 「梦想天生」
+YYC-S 「Mind Amulet」
+YYM-B1 灵符「梦想封印　散」
+YYM-B1S 灵符「梦想封印　集」
+YYM-B2 梦符「封魔阵」
+YYM-B2S 梦符「二重结界」
+YYM-S1 「Homing Amulet」
+YYM-S1S 「博丽护符」
+YYM-S2 「Persuasion Needle」
+YYM-S2S 「Extermination」
+!TEM 雾雨魔理沙符卡名
+CMX-1 恋符「Master Spark」
+CMX-2 魔符「Stardust Reverie」
+CMX-3 仪符「Orrery's Sun」
+CMX-4 魔炮「Final Spark」
+CMX-5 彗星「Blazing Star」
+CMX-6 天仪「Orrery's Solar System」
+CMX-K1 Miasma Sweep
+CMX-K2 Witch Ley Line
+CMX-K3 Ground Stardust
+CMX-S1 符之一「Stardust Reverie」
+CMX-S2 符之二「Asteroid Belt」
+CMX-S3 符之三「Master Spark」
+CMX-S4 星符「Dragon Meteor」
+DLD-B1 「Remote Sacrifice」
+DLD-B2 「Five Season」
+DLD-B3 「Optical Camouflage」
+DLD-S1 「Rainbow Wire」
+DLD-S2 「Every-Angle Shot」
+DLD-S3 「空中鱼雷」
+DSWHT-1 星符「Oort Cloud」
+DSWHT-2 天仪「Orrery's Solar System」
+DSWHT-3 彗星「Blazing Star」
+DZZ-1 光符「Mysterious Beam」
+DZZ-2 光击「Shoot the Little Moon」
+DZZ-3 魔弹「Test Slave」
+DZZ-4 闭符「Big Crunch」
+DZZ-5 恋符「Master Spark一般的手电筒」
+DZZ-6 魔开「Open Universe」
+DZZ-7 魔十字「Grand Cross」
+DZZ-8 流星「Super Perseids」
+DZZ-9 「Blazing Star一般的捉迷藏」
+DZZ-10 「妖精尽灭光」
+EMRJ-H1 「偷拍者降服极限火花」
+EMRJ-H2 「击穿弹幕结界吧！」
+EMRJ-H3 「卑鄙者极限火花」
+FSL-S1 Spread Star
+FSL-S2 Illusion Laser
+FSL-S3 Cold Inferno
+FXT-1 恋符「Master Spark」
+FXT-2 星符「Dragon Meteor」
+FXT-3 魔符「Stardust Reverie」
+FXT-4 魔炮「Final Spark」
+FXT-5 彗星「Blazing Star」
+FXT-6 星符「Escape Velocity」
+FXT-7 星符「Meteonic Shower」
+FXT-8 光符「Luminous Strike」
+FXT-9 仪符「Orrery's Sun」
+FXT-10 邪恋「容易结果的Master Spark」
+FXT-K1 Witch Ley Line
+FXT-K2 Miasma Sweep
+FXT-K3 Ground Stardust
+FXT-K4 Meteonic Debris
+FXT-K5 Radial Strike
+FXT-K6 Bosky Sweeper
+FXT-K7 Devildom Torch
+FXT-K8 Narrow Spark
+FXT-K9 Up Sweep
+FXT-K10 Stellar Missile
+FXT-K11 Green Spread
+FXT-S1 星符「Polaris Unique」
+FXT-S2 天仪「Orrery's Universe」
+FXT-S3 邪恋「容易结果的Master Spark」
+FXTZ-1 星符「Gravity Beat」
+FXTZ-2 光符「Earth Light Ray」
+FXTZ-3 恋符「Non-Directional Laser」
+FXTZ-4 魔废「Deep Ecological Bomb」
+FXTZ-K1 魔法废物再利用炸弹
+FXTZ-S1 星符「Eccentric Asteroid」
+FXTZ-S2 流光「Shooting Echo」
+FXTZ-S3 魔符「Magical R360」
+GXS-B 恋符「Master Spark」
+GXS-S Illusion Laser
+GXS-SS Magic Missile
+GZZ-B 恋符「Master Spark」
+GZZ-S Illusion Laser
+GZZ-SS Magic Missile
+HMX-B1 魔符「Stardust Reverie」
+HMX-B2 恋符「Master Spark」
+HMX-S1 Magic Missile
+HMX-S2 Illusion Laser
+HYZ-B 魔符「Illusion Star」
+HYZ-C1 Illusion Laser
+HYZ-C2 魔符「Stardust」
+HYZ-C3 魔符「Stardust Reverie」
+HYZ-EX Earth Light Ray
+HZC-B1 妖器「Dark Spark」
+HZC-B2 Magic Absorber
+HZC-S1 Illusion Laser
+HZC-S1S 八卦之火
+HZC-S2 Illusion Laser
+HZC-S2S Magic Drain Missile
+MYC-1 「Stardust Reverie」
+MYC-2 「Event Horizon」
+MYC-3 「Final Spark」
+MYC-4 「Double Spark」
+PYH-1 恋符「Master Spark」
+PYH-2 彗星「Blazing Star」
+PYH-3 星符「Satellite Illusion」
+PYH-K1 Powerful Drug
+PYH-K2 Witch Ley Line
+PYH-K3 Sweep Aside
+PYH-K4 Strato-Fraction
+PYH-K5 Rising Sweep
+PYH-OLW|PYH-TLW ＊真棒！厕所里的花子小姐！＊
+PYH-O|PYH-T 「实际发生过的学校的恐怖」
+PYH-S1 星恋符「Sprinkle Star & Heart」
+PYH-S2 拳星符「入道丛云Slave Spark」
+PYH-S3 星灵符「Sprinkle Star封印」
+PYH-S4 针星符「封印月卿之针火花」
+PYH-S5 星符「Asteroid Belt Nightmare」
+SLM-B 恋符「Master Spark」
+SLM-S Illusion Laser
+SLM-SS Magic Missile
+SML-1 恋符「Master Spark」
+SML-2 彗星「Blazing Star」
+SML-3 星符「Satellite Illusion」
+SML-K1 Powerful Drug
+SML-K2 Strato-Fraction
+SML-K3 Witch Ley Line
+SML-K4 Rising Sweep
+SML-K5 Sweep Aside
+SML-O 实际发生过的学校的恐怖
+SML-OLW ＊真棒！厕所里的花子小姐＊
+SML-S1 星符「Occultation」
+SML-S2 ＊被诅咒的历代校长的肖像＊
+SML-S3 ＊夜间学校怪谈云游＊
+TKZ-B 恋符「Master Spark Frozen」
+TXG-1 恋符「Wide Master」
+TXG-2 恋符「Machine Gun Spark」
+XLC-B1 恋符「Master Spark」
+XLC-B2 魔符「Ultimate Shortwave」
+XLC-S1 Illusion Laser
+XLC-S2 Super Shortwave
+XQL-1 恋符「Master Spark」
+XQL-2 彗星「Blazing Star」
+XQL-3 星符「Satellite Illusion」
+XQL-K1 Witch Ley Line
+XQL-K2 Rising Sweep
+XQL-K3 Witching Blast
+XQL-K4 Strato-Fraction
+XQL-K5 Sweep Aside
+XQL-K6 Powerful Drug
+XQL-K7 Luminary Shot
+XQL-LW 「Sungrazer」
+XQL-S1 星符「毫秒脉冲星」
+XQL-S2 魔符「Blaze Away」
+YYC-1 魔符「Milky Way」
+YYC-2 魔空「Asteroid Belt」
+YYC-3 魔符「Stardust Reverie」
+YYC-4 黑魔「Event Horizon」
+YYC-5 恋符「Non-Directional Laser」
+YYC-6 恋风「Starlight Typhoon」
+YYC-7 恋符「Master Spark」
+YYC-8 恋心「Double Spark」
+YYC-9 光符「Earth Light Ray」
+YYC-10 光击「Shoot the Moon」
+YYC-11 魔炮「Final Spark」
+YYC-12 魔炮「Final Master Spark」
+YYC-B 恋符「Master Spark」
+YYC-L 魔炮「Final Spark」
+YYC-LW 「Blazing Star」
+YYC-S Stardust Missile
+YYM-B1 魔符「Stardust Reverie」
+YYM-B1S 魔符「Milky Way」
+YYM-B2 恋符「Non-Directional Laser」
+YYM-B2S 恋符「Master Spark」
+YYM-S1 Magic Missile
+YYM-S1S Magic Napalm
+YYM-S2 Stream Laser
+YYM-S2S Illusion Laser
+!TEM 露米娅符卡名
+HMX-1 月符「Moonlight Ray」
+HMX-2 夜符「Night Bird」
+HMX-3 暗符「Demarcation」
+WHT-1 暗符「Dark Side of the Moon」
+WHT-2 夜符「Midnight Bird」
+!TEM 琪露诺符卡名
+DZZ-B Perfect Freeze
+DZZ-SS Ice Barrier
+FXTZ-1 冰符「Icicle Machine Gun」
+FXTZ-2 冰符「Fairy Spin」
+FXTZ-3 冰块「Cold Sprinkler」
+FXTZ-4 冷体「Super Ice Kick」
+FXTZ-5 冰符「Sword Freezer」
+FXTZ-6 冻符「Freeze Atmosphere」
+FXTZ-7 冷符「瞬间冷冻光线」
+FXTZ-8 霜符「Frost Columns」
+FXTZ-9 吹冰「Ice Tornado」
+FXTZ-10 冻符「Perfect Freeze」
+FXTZ-11 冰块「Great Crusher」
+FXTZ-S1 冰符「Icicle Fall」
+FXTZ-S2 冻符「Minus K」
+HMX-1 冰符「Icicle Fall」
+HMX-2 雹符「Hailstorm」
+HMX-3 冻符「Perfect Freeze」
+HMX-4 雪符「Diamond Blizzard」
+HYZ-B 冻符「Cold Divinity」
+HYZ-C1 Icicle attack
+HYZ-C2|HYZ-C3 冻符「Perfect Freeze」
+HYZ-EX Icicle Fall
+HZC-1 冰符「Ultimate Blizzard」
+TKZ-B 冰符「Cool Sunflower」
+TXG-1 冰符「Perfect Glacialist」
+TXG-2 冰王「Frost King」
+WHT-1 雪符「Diamond Blizzard」
+WHT-2 冻符「Minus K」
+YYM-1 霜符「Frost Columns」
+YYM-TR 冻符「Freeze Actress」
+!TEM 红美铃符卡名
+CMX-1 彩符「彩光风铃」
+CMX-2 光符「华光玉」
+CMX-3 华符「破山炮」
+CMX-4 极彩「彩光乱舞」
+CMX-5 极光「华严明星」
+CMX-6 三华「崩山彩极炮」
+CMX-K1 连环击
+CMX-K2 螺光步
+CMX-K3 红炮
+CMX-K4 黄震脚
+CMX-K5 降华蹴
+FXTZ-1 彩符「彩光风铃」
+FXTZ-2 虹符「烈虹真拳」
+FXTZ-3 气符「星脉弹」
+FXTZ-4 击符「大鹏拳」
+FXTZ-5 气符「地龙天龙脚」
+FXTZ-6 极彩「彩光乱舞」
+FXTZ-7 彩华「虹色太极拳」
+FXTZ-8 气符「猛虎内劲」
+FXTZ-9 星气「星脉地转弹」
+FXTZ-10 炽击「大鹏坠击拳」
+FXTZ-11 华符「彩光莲华掌」
+FXTZ-K1 芳波
+FXTZ-K2 水形太极拳
+FXTZ-K3 彩雨
+FXTZ-K4 红炮
+FXTZ-K5 红寸劲
+FXTZ-K6 虎劲
+FXTZ-K7 螺光步
+FXTZ-K8 烈虹拳
+FXTZ-K9 降华蹴
+FXTZ-K10 黄震脚
+FXTZ-K11 地龙波
+FXTZ-K12 天龙脚
+FXTZ-S1 彩符「极彩沛雨」
+FXTZ-S2 彩翔「飞花落叶」
+HMX-1 华符「芳华绚烂」
+HMX-2 华符「Selaginella 9」
+HMX-3 虹符「彩虹的风铃」
+HMX-4 幻符「华想梦葛」
+HMX-5 彩符「彩雨」
+HMX-6 彩符「彩光乱舞」
+HMX-7 彩符「极彩台风」
+WHT-1 华符「彩光莲华掌」
+WHT-2 彩翔「飞花落叶」
+WHT-3 彩华「虹色太极拳」
+!TEM 帕秋莉符卡名
+CMX-1 火金符「St. Elmo Pillar」
+CMX-2 土水符「Noachian Deluge」
+CMX-3 金木符「Elemental Harvester」
+CMX-4 日符「Royal Flare」
+CMX-5 月符「Silent Selene」
+CMX-6 火水木金土符「贤者之石」
+CMX-K1 Summer Red
+CMX-K2 Winter Element
+CMX-K3 Spring Wind
+CMX-K4 Autumn Edge
+CMX-K5 Doyou Spear
+CMX-S1 符之一「St. Elmo Explosion」
+CMX-S2 符之二「Deluge Forty Day」
+CMX-S3 金土符「Ginger Gust」
+DLD-B 「Five Season」
+DLD-S 「Every-Angle Shot」
+FXT-1 火金符「St. Elmo Pillar」
+FXT-2 土水符「Noachian Deluge」
+FXT-3 金木符「Elemental Harvester」
+FXT-4 日符「Royal Flare」
+FXT-5 月符「Silent Selene」
+FXT-6 火水木金土符「贤者之石」
+FXT-7 水符「Jellyfish Princess」
+FXT-8 月木符「Satellite Himawari」
+FXT-9 日木符「Photosynthesis」
+FXT-K1 Summer Red
+FXT-K2 Winter Element
+FXT-K3 Spring Wind
+FXT-K4 Autumn Edge
+FXT-K5 Doyou Spear
+FXT-K6 Summer Flame
+FXT-K7 Condensed Bubble
+FXT-K8 Flash Of Spring
+FXT-K9 Autumn Blades
+FXT-K10 Emerald City
+FXT-S1 火符「Akiba Summer」
+FXT-S2 水符「Jellyfish Princess」
+FXT-S3 月金符「Sunshine Reflector」
+FXTZ-1 火水符「Phlogistic Pillar」
+FXTZ-2 土金符「Emerald Megalopolis」
+FXTZ-3 日月符「Royal Diamond Ring」
+FXTZ-K1 Wipe Moisture
+FXTZ-K2 Static Green
+FXTZ-K3 Fall Slasher
+FXTZ-K4 Diamond Hardness
+FXTZ-K5 Sticky Bubbles
+FXTZ-S1 火符「Ring of Agni」
+FXTZ-S2 水符「Princess Undine」
+HMX-1 火符「Agni Shine」
+HMX-2 水符「Princess Undine」
+HMX-3 木符「Sylphy Horn」
+HMX-4 土符「Lazy Trilithon」
+HMX-5 金符「Metal Fatigue」
+HMX-6 火符「Agni Shine上级」
+HMX-7 木符「Sylphy Horn上级」
+HMX-8 土符「Lazy Trilithon上级」
+HMX-9 火符「Agni Radiance」
+HMX-10 水符「Bury in Lake」
+HMX-11 木符「Green Storm」
+HMX-12 土符「Trilithon Shake」
+HMX-13 金符「Silver Dragon」
+HMX-14 火&土符「Lava Cromlech」
+HMX-15 木&火符「Forest Blaze」
+HMX-16 水&木符「Water Elf」
+HMX-17 金&水符「Mercury Poison」
+HMX-18 土&金符「Emerald Megalith」
+HMX-19 月符「Silent Selene」
+HMX-20 日符「Royal Flare」
+HMX-21 火水木金土符「贤者之石」
+WHT-1 日&水符「Hydrogenous Prominence」
+WHT-2 水&火符「Phlogistic Rain」
+WHT-3 月&木符「Satellite Himawari」
+WHT-4 日&月符「Royal Diamond Ring」
+!TEM 十六夜咲夜符卡名
+CMX-1 幻符「杀人玩偶」
+CMX-2 时符「Private Square」
+CMX-3 伤符「Inscribe Red Soul」
+CMX-4 幻葬「夜雾幻影杀人鬼」
+CMX-5 「咲夜的世界」
+CMX-6 伤魂「Soul Sculpture」
+CMX-K1 离剑之见
+CMX-K2 Ambitious Jack
+CMX-K3 Close-up Magic
+CMX-K4 Bounce No-Bounce
+CMX-K5 Vanishing Everything
+CMX-S1 符之一「连续杀人玩偶」
+CMX-S2 符之二「Check-Maid」
+CMX-S3 戏法「极近距离杀人鬼」
+FXT-1 幻符「杀人玩偶」
+FXT-2 时符「Private Square」
+FXT-3 伤符「Inscribe Red Soul」
+FXT-4 幻葬「夜雾幻影杀人鬼」
+FXT-5 「咲夜的世界」
+FXT-6 伤魂「Soul Sculpture」
+FXT-7 银符「Silver Bound」
+FXT-8 奇术「Eternal Meek」
+FXT-9 速符「Luminous Ricochet」
+FXT-10 时符「咲夜特制秒表」
+FXT-K1 Close-up Magic
+FXT-K2 Bounce No-bounce
+FXT-K3 Magic Stars Sword
+FXT-K4 Vanishing Everything
+FXT-K5 Propelling Silver
+FXT-K6 Square Ricochet
+FXT-K7 离剑之见
+FXT-K8 Perfect Maid
+FXT-S1 银符「Silver Bound」
+FXT-S2 时符「咲夜特制秒表」
+FXT-S3 幻术「My Knife Recursion」
+FXT-S4 时符「Silver Acute 360」
+FXTZ-1 时符「Imaginary Vertical Time」
+FXTZ-2 时计「Luna Dial」
+FXTZ-3 光速「C. Ricochet」
+FXTZ-K1 Parallel Brane
+FXTZ-K2 Dancing Star Sword
+FXTZ-K3 Misdirection
+FXTZ-K4 Time Paradox
+HMX-1 奇术「Misdirection」
+HMX-2 奇术「幻惑Misdirection」
+HMX-3 幻在「Clock Corpse」
+HMX-4 幻幽「Jack the Ludo Bile」
+HMX-5 幻象「Luna Clock」
+HMX-6 幻世「The World」
+HMX-7 女仆秘技「操弄玩偶」
+HMX-8 女仆秘技「杀人玩偶」
+HMX-9 奇术「Eternal Meek」
+HYZ-B 时符「Mysterious Jack」
+HYZ-C1 Jack the Ripper
+HYZ-C2|HYZ-C3 时符「Private Vision」
+HYZ-EX Another Murder
+HZC-B1 妖器「银色异次元」
+HZC-B2 时符「Dual Vanish」
+HZC-S1 Throwing Knife
+HZC-S1S 妖剑Silver Blade
+HZC-S2 Throwing Knife
+HZC-S2S Smart Robber
+MYC-1 「Luminous Ricochet」
+MYC-2 「我的世界」
+TXG-1 时符「时停者咲夜」
+TXG-2 时符「Changeling Magic」
+WHT-1 时符「Tunnel Effect」
+WHT-2 空虚「Inflation Square」
+WHT-3 银符「Perfect Maid」
+YYC-B 幻符「杀人玩偶」
+YYC-L 幻葬「夜雾幻影杀人鬼」
+YYC-LW 「Deflation World」
+YYC-S 「Mysterious Jack」
+YYM-B1 幻符「Indiscriminate」
+YYM-B1S 幻符「杀人玩偶」
+YYM-B2 时符「Perfect Square」
+YYM-B2S 时符「Private Square」
+YYM-S1 「Jack the Ripper」
+YYM-S1S 「Jack the Ludo Bile」
+YYM-S2 「Misdirection」
+YYM-S2S 「Power Direction」
+!TEM 蕾米莉亚符卡名
+CMX-1 红符「红色不夜城」
+CMX-2 必杀「Heart Break」
+CMX-3 夜符「Demon King Cradle」
+CMX-4 红魔「Scarlet Devil」
+CMX-5 神枪「Spear the Gungnir」
+CMX-6 夜王「Dracula Cradle」
+CMX-K1 Demon Lord Walk
+CMX-K2 Servant Flyer
+CMX-K3 Demon Lord Cradle
+CMX-K4 Demon Lord Arrow
+CMX-S1 符之一「Bad Lady Scramble」
+CMX-S2 符之二「My Heart Break」
+CMX-S3 符之三「Hell Catastrophe」
+CMX-S4 夜符「Queen of Midnight」
+CMX-S5 「Red Magic」
+EMRJ-H1 红魔符「Bloody Catastrophe」
+EMRJ-H2 红星符「超人血刀」
+EMRJ-H3 神红符「血腥十七条的光芒」
+FXT-1 红符「红色不夜城」
+FXT-2 必杀「Heart Break」
+FXT-3 夜符「Demon King Cradle」
+FXT-4 红魔「Scarlet Devil」
+FXT-5 神枪「Spear the Gungnir」
+FXT-6 夜王「Dracula Cradle」
+FXT-7 夜符「Bad Lady Scramble」
+FXT-8 命运「Miserable Fate」
+FXT-K1 Demon Lord Walk
+FXT-K2 Servant Flyer
+FXT-K3 Demon Lord Cradle
+FXT-K4 Demon Lord Arrow
+FXT-K5 Vampire Claw
+FXT-K6 Chain Gang
+FXT-K7 Rocket Kick-up
+FXT-K8 Ceiling Fear
+FXT-K9 Demon's Dinner Fork
+FXT-S1 命运「Miserable Fate」
+FXT-S2 夜符「Bombard Night」
+FXT-S3 蝙蝠「Vampire Sweep」
+FXT-S4 神鬼「Remilia Stalker」
+FXTZ-1 恶魔「Remilia Stretch」
+FXTZ-2 「千年吸血鬼」
+FXTZ-K1 Trickster Devil
+FXTZ-K2 Vampire Kiss
+FXTZ-K3 Stigmanizer
+HMX-1 天罚「Star of David」
+HMX-2 神罚「年幼的恶魔之王」
+HMX-3 冥符「红色的冥界」
+HMX-4 狱符「千根针的针山」
+HMX-5 诅咒「弗拉德·特佩斯的诅咒」
+HMX-6 神术「吸血鬼幻想」
+HMX-7 红符「Scarlet Shoot」
+HMX-8 红符「Scarlet Meister」
+HMX-9 「Red Magic」
+HMX-10 「红色的幻想乡」
+MYC-1 「Queen of Midnight」
+TXG-1 「Fitful Nightmare」
+TXG-2 「捉吸血鬼游戏」
+WHT-1 魔符「全世界梦魇」
+WHT-2 红符「Bloody Magic Square」
+WHT-3 红蝙蝠「Vampirish Night」
+WHT-4 神鬼「Remilia Stalker」
+YYC-A 「Servant Flyer」
+YYC-B 红符「红色不夜城」
+YYC-L 红魔「Scarlet Devil」
+YYC-LW 「Scarlet Destiny」
+YYC-S 「Night Dance」
+!TEM 芙兰朵露符卡名
+EMRJ-H1 红魔符「Bloody Catastrophe」
+EMRJ-H2 红神符「十七条大灾变」
+EMRJ-H3 红星符「超人大灾变行脚」
+HMX-1 禁忌「Cranberry Trap」
+HMX-2 禁忌「Laevatein」
+HMX-3 禁忌「Four of a Kind」
+HMX-4 禁忌「Kagome Kagome」
+HMX-5 禁忌「恋之迷宫」
+HMX-6 禁弹「Starbow Break」
+HMX-7 禁弹「Catadioptric」
+HMX-8 禁弹「刻着过去的钟表」
+HMX-9 秘弹「之后就一个人都没有了吗？」
+HMX-10 QED「495年的波纹」
+WHT-1 禁忌「Forbidden Fruits」
+WHT-2 禁忌「被禁止的游戏」
+!TEM 蕾蒂符卡名
+WHT-1 寒符「Cold Snap」
+WHT-2 冬符「Northern Winner」
+YYM-1 寒符「Lingering Cold」
+YYM-2 冬符「Flower Wither Away」
+YYM-3 白符「Undulation Ray」
+YYM-4 怪符「Table Turning」
+!TEM 橙符卡名
+WHT-1 星符「交错的鳞片」
+WHT-2 鬼神「鸣动持国天」
+WHT-3 怪猫「橙」
+YYM-1 仙符「凤凰卵」
+YYM-2 仙符「凤凰展翅」
+YYM-3 式符「飞翔晴明」
+YYM-4 阴阳「道满晴明」
+YYM-5 阴阳「晴明大纹」
+YYM-6 天符「天仙鸣动」
+YYM-7 翔符「飞翔韦驮天」
+YYM-8 童符「护法天童乱舞」
+YYM-9 仙符「尸解永远」
+YYM-10 鬼符「鬼门金神」
+YYM-11 方符「奇门遁甲」
+YYM-12 鬼符「青鬼赤鬼」
+YYM-13 鬼神「飞翔毘沙门天」
+!TEM 爱丽丝符卡名
+CMX-1 魔符「Artful Sacrifice」
+CMX-2 战符「Little Legion」
+CMX-3 咒符「上海人偶」
+CMX-4 魔操「Return Inanimateness」
+CMX-5 战操「Doll's War」
+CMX-6 诅咒「蓬莱人偶」
+CMX-K1 人偶操创
+CMX-K2 人偶无操
+CMX-K3 人偶置操
+CMX-S1 符之一「Artful Chanter」
+CMX-S2 符之二「Doll Crusader」
+CMX-S3 魔光「Devilry Light Ray」
+DLD-B 「Remote Sacrifice」
+DLD-S 「Rainbow Wire」
+FXT-1 魔符「Artful Sacrifice」
+FXT-2 战符「Little Legion」
+FXT-3 咒符「上海人偶」
+FXT-4 魔操「Return Inanimateness」
+FXT-5 战操「Doll's War」
+FXT-6 诅咒「蓬莱人偶」
+FXT-7 侦符「Seeker Dolls」
+FXT-8 红符「荷兰人偶」
+FXT-9 人偶「未来文乐」
+FXT-10 聚焦「Trip Wire」
+FXT-K1 人偶操创
+FXT-K2 人偶无操
+FXT-K3 人偶置操
+FXT-K4 人偶振起
+FXT-K5 人偶归巢
+FXT-K6 人偶火葬
+FXT-K7 人偶千枪
+FXT-K8 人偶SP
+FXT-K9 大江户炸药机关人偶
+FXT-K10 Seeker Wire
+FXT-S1 步兵「Suicide Squad」
+FXT-S2 剑符「Soldier of Cross」
+FXT-S3 人偶「没有灵魂的民间舞」
+FXTZ-1 枪符「萌萌大千枪」
+FXTZ-2 人偶「Lemmings' Parade」
+FXTZ-K1 人偶伏兵
+FXTZ-K2 人偶弓兵
+FXTZ-S1 人偶「Semi-Automaton」
+FXTZ-S2 骑士「Doll of Round Table」
+FXTZ-S3 牺牲「Suicide Pact」
+FXTZ-S4 试验中「Level Titania」
+FXTZ-S5 试验中「歌利亚人偶」
+WHT-1 操符「Dolls in Sea」
+WHT-2 咒符「Straw Doll Kamikaze」
+WHT-3 赤符「Doll Mira Ceti」
+YYC-A 「上海人偶」
+YYC-B 魔符「Artful Sacrifice」
+YYC-L 魔操「Return Inanimateness」
+YYC-LW 「猎奇剧团里的怪人」
+YYC-S 「Spectre Mistery」
+YYM-1 操符「少女文乐」
+YYM-2 苍符「博爱的法兰西人偶」
+YYM-3 苍符「博爱的奥尔良人偶」
+YYM-4 红符「红发的荷兰人偶」
+YYM-5 白符「白垩的俄罗斯人偶」
+YYM-6 暗符「雾之伦敦人偶」
+YYM-7 回符「轮回的西藏人偶」
+YYM-8 雅符「春之京都人偶」
+YYM-9 诅咒「魔彩光的上海人偶」
+YYM-10 诅咒「上吊的蓬莱人偶」
+YYM-T1 操符「Marionette Parrar」
+YYM-T2 操符「Manipulate Puppet」
+!TEM 露娜萨符卡名
+HYZ-B 骚符「Lunasa Solo Live」
+HYZ-C1 Tuning
+HYZ-C2|HYZ-C3 骚符「Noise Melancholy」
+HYZ-EX Slow Sound
+YYM-1 弦奏「Guarneri del Gesù」
+YYM-2 神弦「Stradivarius」
+YYM-3 伪弦「Pseudo Stradivarius」
+YYM-H1 骚符「Phantom Dinning」
+YYM-H2 骚符「Live Poltergeist」
+YYM-H3 合葬「Prism Concerto」
+YYM-H4 骚葬「Stygian Riverside」
+YYM-H5 大合葬「灵车大协奏曲」
+YYM-H6 大合葬「灵车大协奏曲改」
+YYM-H7 大合葬「灵车大协奏曲怪」
+!TEM 梅露兰符卡名
+HYZ-B 骚符「Merlin Happy Live」
+HYZ-C1 Riverside Song
+HYZ-C2|HYZ-C3 骚符「Soul-Go-Happy」
+HYZ-EX Trumpet Soul
+YYM-1 管灵「Hino Phantasm」
+YYM-2 冥管「Ghost Clifford」
+YYM-3 管灵「Ghost Clifford」
+YYM-H1 骚符「Phantom Dinning」
+YYM-H2 骚符「Live Poltergeist」
+YYM-H3 合葬「Prism Concerto」
+YYM-H4 骚葬「Stygian Riverside」
+YYM-H5 大合葬「灵车大协奏曲」
+YYM-H6 大合葬「灵车大协奏曲改」
+YYM-H7 大合葬「灵车大协奏曲怪」
+!TEM 莉莉卡符卡名
+HYZ-B 骚符「Lyrica Solo Live」
+HYZ-C1 键盘之灵
+HYZ-C2|HYZ-C3 骚符「Soul Noise Flow」
+HYZ-EX Phantom Noise
+YYM-1 冥键「法奇奥里冥奏」
+YYM-2 键灵「贝森朵夫神奏」
+YYM-H1 骚符「Phantom Dinning」
+YYM-H2 骚符「Live Poltergeist」
+YYM-H3 合葬「Prism Concerto」
+YYM-H4 骚葬「Stygian Riverside」
+YYM-H5 大合葬「灵车大协奏曲」
+YYM-H6 大合葬「灵车大协奏曲改」
+YYM-H7 大合葬「灵车大协奏曲怪」
+!TEM 莉莉卡符卡名
+HYZ-B 骚符「Lyrica Solo Live」
+HYZ-C1 键盘之灵
+HYZ-C2|HYZ-C3 骚符「Soul Noise Flow」
+HYZ-EX Phantom Noise
+YYM-1 冥键「法奇奥里冥奏」
+YYM-2 键灵「贝森朵夫神奏」
+YYM-H1 骚符「Phantom Dinning」
+YYM-H2 骚符「Live Poltergeist」
+YYM-H3 合葬「Prism Concerto」
+YYM-H4 骚葬「Stygian Riverside」
+YYM-H5 大合葬「灵车大协奏曲」
+YYM-H6 大合葬「灵车大协奏曲改」
+YYM-H7 大合葬「灵车大协奏曲怪」
+!TEM 魂魄妖梦符卡名
+CMX-1 人符「现世斩」
+CMX-2 断命剑「冥想斩」
+CMX-3 魂符「幽明的苦轮」
+CMX-4 人鬼「未来永劫斩」
+CMX-5 断迷剑「迷津慈航斩」
+CMX-6 魂魄「幽明求闻持聪明之法」
+CMX-K1 反射下界斩
+CMX-K2 弦月斩
+CMX-K3 天界法轮斩
+CMX-K4 生死流转斩
+CMX-K5 折伏无间
+CMX-S1 符之一「二重的苦轮」
+CMX-S2 符之二「心眼迷想斩」
+CMX-S3 符之三「业风神闪斩」
+CMX-S4 奥义「西行春风斩」
+FXT-1 人符「现世斩」
+FXT-2 断命剑「冥想斩」
+FXT-3 魂符「幽明的苦轮」
+FXT-4 人鬼「未来永劫斩」
+FXT-5 断迷剑「迷津慈航斩」
+FXT-6 魂魄「幽明求闻持聪明之法」
+FXT-7 剑伎「樱花闪闪」
+FXT-8 断灵剑「成佛得脱斩」
+FXT-K1 反射下界斩
+FXT-K2 弦月斩
+FXT-K3 生死流转斩
+FXT-K4 凭依之缚
+FXT-K5|SLM-SS|GXS-SS 结跏跗斩
+FXT-K6 折伏无间
+FXT-K7 心抄斩
+FXT-K8 恶魂
+FXT-K9 炯眼剑
+FXT-K10 奇妙半身
+FXT-S1 人智剑「天女返」
+FXT-S2 樱花剑「闪闪散华」
+FXT-S3 断想剑「草木成佛斩」
+FXT-S4 瞑斩「楼观赋予我能斩断弹幕的心之眼」
+FXTZ-1|SLM-B|GXS-B 空观剑「六根清净斩」
+FXTZ-2 转生剑「圆心流转斩」
+FXTZ-K1 燐气斩
+FXTZ-K2 头上花剪斩
+HYZ-B 迷符「半身大悟」
+HYZ-C1 断迷剑
+HYZ-C2|HYZ-C3 迷符「缠缚剑」
+HYZ-EX 未断之魂
+SLM-S|GXS-S 剑气
+TXG-1 光符「冥府光芒一闪」
+TXG-2 彼岸剑「地狱极乐胡乱斩」
+WHT-1 人智剑「天女返」
+WHT-2 妄执剑「修罗之血」
+WHT-3 天星剑「仿若涅槃寂静」
+WHT-4 四生剑「众生无情之声」
+YYC-A 「半幽灵」
+YYC-B 人符「现世斩」
+YYC-L 人鬼「未来永劫斩」
+YYC-LW 「待宵反射卫星斩」
+YYC-S 「六道怪奇」
+YYM-1 幽鬼剑「妖童饿鬼之断食」
+YYM-2 饿鬼剑「饿鬼道草纸」
+YYM-3 饿王剑「饿鬼十王的报应」
+YYM-4 狱界剑「二百由旬之一闪」
+YYM-5 狱炎剑「业风闪影阵」
+YYM-6 狱神剑「业风神闪斩」
+YYM-7 畜趣剑「无为无策之冥罚」
+YYM-8 修罗剑「现世妄执」
+YYM-9 人界剑「悟入幻想」
+YYM-10 人世剑「大悟显晦」
+YYM-11 人神剑「俗谛常住」
+YYM-12 天上剑「天人之五衰」
+YYM-13 天界剑「七魄忌讳」
+YYM-14 天神剑「三魂七魄」
+YYM-15 六道剑「一念无量劫」
+!TEM 西行寺幽幽子符卡名
+CMX-1 死符「Ghastly Dream」
+CMX-2 冥符「黄泉平坂行路」
+CMX-3 灵符「无寿之梦」
+CMX-4 死蝶「华胥的永眠」
+CMX-5 再迷「幻想乡的黄泉归」
+CMX-6 寿命「通向无寿国的期票」
+CMX-K1 幽蝴蝶
+CMX-K2 未生之光
+CMX-K3 悉皆彷徨
+CMX-K4 蝴蝶梦之舞
+CMX-S1 符之一「幽梦的蝴蝶」
+CMX-S2 符之二「白玉楼的枝垂樱」
+CMX-S3 符之三「遥远过去的死地」
+CMX-S4 樱花「依恋未酌宴」
+CMX-S5 「紫色彼岸樱推迟绽放」
+EMRJ-H1 妖花符「蝴蝶风暴阎魔笏」
+EMRJ-H2 风妖符「死蝶御柱」
+EMRJ-H3 妖风符「土著蝶风暴」
+FXT-1 死符「Ghastly Dream」
+FXT-2 冥符「黄泉平坂行路」
+FXT-3 灵符「无寿之梦」
+FXT-4 死蝶「华胥的永眠」
+FXT-5 再迷「幻想乡的黄泉归」
+FXT-6 寿命「通向无寿国的期票」
+FXT-7 灵蝶「蝶之羽风暂留此世」
+FXT-8 蝶符「凤蝶纹的死枪」
+FXT-9 幽雅「通向黄泉的诱蛾灯」
+FXT-K1 幽蝴蝶
+FXT-K2 未生之光
+FXT-K3 悉皆彷徨
+FXT-K4 蝴蝶梦之舞
+FXT-K5 好死之灵
+FXT-K6 凤蝶纹之枪
+FXT-K7 诱灵的甘蜜
+FXT-K8 逆转屏风
+FXT-K9 Sphere Bloom
+FXT-S1 幽符「冥界灵异点」
+FXT-S2 灵蝶「蝶之羽风暂留此世」
+FXT-S3 宴会「死后一切大团圆」
+FXTZ-1 「反魂蝶」
+FXTZ-2 樱符「Sense of Cherry Blossom」
+FXTZ-K1 死还的大地
+FXTZ-K2 Sense of Elegance
+FXTZ-K3 故人的遗物
+GOM-1 亡乡「亡我乡」
+GOM-2 亡舞「生者必灭之理」
+GOM-3 幽曲「埋骨于弘川」
+GOM-4 「反魂蝶」
+SLM-1 符牒「死蝶之舞」
+SLM-2 符牒「死蝶之舞　- 樱花 -」
+SLM-3 幽蝶「Ghost Spot」
+SLM-4 幽蝶「Ghost Spot　- 樱花 -」
+SLM-5 冥符「常夜樱」
+SLM-6 樱符「西行樱吹雪」
+SLM-OD 樱符「樱吹雪地狱」
+TXG-1 蝶符「花蝶风月」
+TXG-2 樱花「樱吹雪花小町」
+WHT-1 幽雅「通向黄泉的诱蛾灯」
+WHT-2 蝶符「凤蝶纹的死枪」
+WHT-3 死符「醉人之生，死的梦幻」
+WHT-4 「死蝶浮月」
+YYC-A 「死蝶灵」
+YYC-B 死符「Ghastly Dream」
+YYC-L 死蝶「华胥的永眠」
+YYC-LW 「西行寺无余涅槃」
+YYC-S 「对岸的引诱」
+YYM-1 亡乡「亡我乡 -彷徨的灵魂-」
+YYM-2 亡乡「亡我乡 -宿罪-」
+YYM-3 亡乡「亡我乡 -无道之路-」
+YYM-4 亡乡「亡我乡 -自尽-」
+YYM-5 亡舞「生者必灭之理 -眩惑-」
+YYM-6 亡舞「生者必灭之理 -死蝶-」
+YYM-7 亡舞「生者必灭之理 -毒蛾-」
+YYM-8 亡舞「生者必灭之理 -魔境-」
+YYM-9 华灵「Ghost Butterfly」
+YYM-10 华灵「Swallowtail Butterfly」
+YYM-11 华灵「Deep-Rooted Butterfly」
+YYM-12 华灵「Butterfly Delusion」
+YYM-13 幽曲「埋骨于弘川 -伪灵-」
+YYM-14 幽曲「埋骨于弘川 -亡灵-」
+YYM-15 幽曲「埋骨于弘川 -幻灵-」
+YYM-16 幽曲「埋骨于弘川 -神灵-」
+YYM-17 樱符「完全墨染的樱花 -封印-」
+YYM-18 樱符「完全墨染的樱花 -亡我-」
+YYM-19 樱符「完全墨染的樱花 -春眠-」
+YYM-20 樱符「完全墨染的樱花 -开花-」
+YYM-21 「反魂蝶 -一分咲-」
+YYM-22 「反魂蝶 -三分咲-」
+YYM-23 「反魂蝶 -五分咲-」
+YYM-24 「反魂蝶 -八分咲-」
+!TEM 八云蓝符卡名
+EMRJ-H1 地妖符「本我的式神」
+EMRJ-H2 地妖符「式神大星」
+EMRJ-H3 地妖符「自我的式神」
+WHT-1 密符「大师的密传」
+WHT-2 行符「八千万块护摩」
+WHT-3 超人「飞翔役小角」
+YYM-1 式神「仙狐思念」
+YYM-2 式神「十二神将之宴」
+YYM-3 式辉「狐狸妖怪激光」
+YYM-4 式辉「迷人的四面楚歌」
+YYM-5 式辉「天狐公主 -Illusion-」
+YYM-6 式弹「Ultimate Buddhist」
+YYM-7 式弹「Unilateral Contact」
+YYM-8 式神「橙」
+YYM-9 「狐狗狸先生的契约」
+YYM-10 幻神「饭纲权现降临」
+YYM-11 式神「前鬼后鬼的守护」
+YYM-12 式神「凭依荼吉尼天」
+!TEM 八云紫符卡名
+CMX-1 境符「四重结界」
+CMX-2 式神「八云蓝」
+CMX-3 境符「二次元与三次元的境界」
+CMX-4 结界「充满魅力的四重结界」
+CMX-5 式神「八云蓝+」
+CMX-6 结界「客观结界」
+CMX-K1 后悔打开的玉匣
+CMX-K2 潜藏于禅寺的妖蝶
+CMX-K3 枕石漱流
+CMX-K4 漱石枕流
+CMX-K5 幻想狂想穴
+CMX-S1 符之一「四重结界」
+CMX-S2 符之二「八云卍伞」
+CMX-S3 符之三「八云蓝」
+CMX-S4 外力「无限的超高速飞行体」
+CMX-S5 幻想「第一类永动机」
+DLD-B 「违背常识的另一侧」
+DLD-S 「顶门紫针」
+EMRJ-H1 「秘神结界」
+EMRJ-H2 「击穿弹幕结界吧！」
+EMRJ-H3 「未经许可的弹幕禁止摄影」
+EMRJ-H4 纸符「结界中的ESP卡手里剑」
+FXT-1 境符「四重结界」
+FXT-2 式神「八云蓝」
+FXT-3 境符「二次元与三次元的境界」
+FXT-4 结界「充满魅力的四重结界」
+FXT-5 式神「橙」
+FXT-6 结界「客观结界」
+FXT-7 幻巢「飞光虫之巢」
+FXT-8 空饵「具有中毒性的诱饵」
+FXT-9 废线「废弃车站下车之旅」
+FXT-K1 后悔打开的玉匣
+FXT-K2 枕石漱流
+FXT-K3 幻想狂想穴
+FXT-K4 人间到处有青山
+FXT-K5 幻想卍伞
+FXT-K6 物质与反物质的宇宙
+FXT-K7 肉体分解机
+FXT-K8 魅惑的诱饵
+FXT-S1 光弹「Doppler Effect」
+FXT-S2 捌器「将一切分成两个的东西」
+FXT-S3 幻巢「飞光虫之巢」
+FXT-S4 空饵「狂躁高速飞行物体」
+FXT-S5 「八云之巢」
+FXTZ-1 魔眼「拉普拉斯之魔」
+FXTZ-K1 知能与脚的境界
+FXTZ-K2 静观其变之眼
+FXTZ-K3 奇美拉之翼
+PYH-1 「无人废线车辆炸弹」
+PYH-2 式神「八云蓝&橙」
+PYH-3 境界「溢出的漂流物」
+PYH-K1 时空的破裂
+PYH-K2 幻想狂想穴
+PYH-K3 幻想卍伞
+PYH-K4 圆月伞
+PYH-K5 魅惑的诱饵
+PYH-OLW|PYH-TLW ＊把你美丽的脚拿来！＊
+PYH-O|PYH-T 「世上最灵活的上半身」
+PYH-S1 「凭坐（主役）的忧郁」
+PYH-S2 「完全凭依与梦想封印」
+PYH-S3 「凭坐（主役）与神灵（下仆）的境界」
+PYH-S4 贫符「Mischance Scatter」
+PYH-S5 「最凶最恶的极贫不幸神」
+TXG-1 「不可能弹幕结界」
+TXG-2 「运钝根的捕物帐」
+WHT-1 境符「色与空的境界」
+WHT-2 境符「波与粒的境界」
+YYC-A 「召唤八云式」
+YYC-B 境符「四重结界」
+YYC-L 境界「永夜四重结界」
+YYC-LW 「深弹幕结界 -梦幻泡影-」
+YYC-S 「妖回针」
+YYM-1 结界「梦境与现实的诅咒」
+YYM-2 结界「动与静的均衡」
+YYM-3 结界「光明与黑暗的网目」
+YYM-4 罔两「直球与曲球的梦乡」
+YYM-5 罔两「八云紫的神隐」
+YYM-6 罔两「栖息于禅寺的妖蝶」
+YYM-7 魍魉「二重黑死蝶」
+YYM-8 式神「八云蓝」
+YYM-9 「人类与妖怪的境界」
+YYM-10 结界「生与死的境界」
+YYM-11 紫奥义「弹幕结界」
+!TEM 伊吹萃香符卡名
+CMX-1 萃符「户隐山之投」
+CMX-2 醉神「鬼缚之术」
+CMX-3 鬼符「Missing Power」
+CMX-4 萃鬼「天手力男之投」
+CMX-5 醉梦「施饿鬼缚之术」
+CMX-6 鬼神「Missing Purple Power」
+CMX-K1 妖鬼　- 密 -
+CMX-K2 地灵　- 密 -
+CMX-K3 妖鬼　- 疏 -
+CMX-K4 地灵　- 疏 -
+CMX-S1 符之一「投掷的天岩户」
+CMX-S2 符之二「坤轴的大鬼」
+CMX-S3 符之三「追傩返黑洞」
+CMX-S4 鬼火「超高密度磷祸术」
+CMX-S5 疎符「六里雾中」
+CMX-S6 「百万鬼夜行」
+DLD-B 「萃灵花」
+DLD-S 「鬼神磷火术」
+DSWHT-1 鬼符「豆粒大的针地狱」
+DSWHT-2 地狱「炼狱气息」
+DSWHT-3 鬼符「Missing Power」
+EMRJ-H1 萃夜符「身命雾散」
+EMRJ-H2 萃珠符「纯粹的五里雾中」
+EMRJ-H3 萃珠符「Mist Ray」
+FXT-1 萃符「户隐山之投」
+FXT-2 醉神「鬼缚之术」
+FXT-3 鬼符「Missing Power」
+FXT-4 萃鬼「天手力男之投」
+FXT-5 醉梦「施饿鬼缚之术」
+FXT-6 鬼神「Missing Purple Power」
+FXT-7 雾符「云集雾散」
+FXT-8 鬼火「超高密度磷祸术」
+FXT-9 鬼符「大江山悉皆杀」
+FXT-K1 妖鬼-密-
+FXT-K2 地灵-密-
+FXT-K3 妖鬼-疏-
+FXT-K4 萃鬼
+FXT-K5 元鬼玉
+FXT-K6 地灵-疏-
+FXT-K7 厌雾
+FXT-K8 疏鬼
+FXT-K9 火鬼
+FXT-S1 吐息「小鬼的深呼吸」
+FXT-S2 火弹「地灵活性弹」
+FXT-S3 鬼神「Missing Purple Power」
+FXT-S4 鬼气「蒙蒙迷雾」
+FXT-S5 「百万同一鬼」
+FXTZ-1 四天王奥义「三步坏废」
+FXTZ-K1 踏鞴
+FXTZ-K2 鬼神燐火术
+FXTZ-K3 攫鬼
+TXG-1 鬼群「Imp swarm」
+TXG-2 鬼群「百鬼秃童」
+WHT-1 鬼气「蒙蒙迷雾」
+WHT-2 「百万鬼夜行」
+!TEM 莉格露符卡名
+GOM-W 萤符「Little Bug Storm」
+WHT-1 萤符「地上的恒星」
+WHT-2 蝶符「Butterfly Storm」
+YYC-1 萤符「地上的流星」
+YYC-2 萤符「地上的彗星」
+YYC-3 灯符「Firefly Phenomenon」
+YYC-4 蠢符「Little Bug」
+YYC-5 蠢符「Little Bug Storm」
+YYC-6 蠢符「Night Bug Storm」
+YYC-7 蠢符「Night Bug Tornado」
+YYC-8 隐虫「永夜蛰居」
+YYC-LW 「不合时令的蝶雨」
+!TEM 米斯蒂娅符卡名
+HYZ-B 鸟符「Mysterious Song」
+HYZ-C1 Little Battalion
+HYZ-C2 鸟符「Human Cage」
+HYZ-C3 鸟符「Human Cage Double」
+HYZ-EX Bird Watching
+YYC-1 声符「枭的夜鸣声」
+YYC-2 声符「木菟的咆哮」
+YYC-3 蛾符「天蛾的蛊道」
+YYC-4 毒符「毒蛾的鳞粉」
+YYC-5 猛毒「毒蛾的黑暗演舞」
+YYC-6 鹰符「Ill-Starred Dive」
+YYC-7 夜盲「夜雀之歌」
+YYC-8 夜雀「午夜中的合唱指挥」
+YYC-LW 「Blind Night-Bird」
+!TEM 上白泽慧音符卡名
+TXG-1 「20XX年 死后之旅」
+TXG-2 大火「江户之花」
+WHT-1 光符「天照」
+WHT-2 包符「昭和之雨」
+WHT-3 葵符「水户的光圀」
+WHT-4 倭符「邪马台国」
+YYC-1 产灵「First Pyramid」
+YYC-2 始符「Ephemerality 137」
+YYC-3 野符「武烈的危机」
+YYC-4 野符「将门的危机」
+YYC-5 野符「义满的危机」
+YYC-6 野符「GHQ的危机」
+YYC-7 国符「三种神器　剑」
+YYC-8 国符「三种神器　玉」
+YYC-9 国符「三种神器　镜」
+YYC-10 国体「三种神器　乡」
+YYC-11 终符「幻想天皇」
+YYC-12 虚史「幻想乡传说」
+YYC-13 未来「高天原」
+YYC-14 旧史「旧秘境史 -古代史-」
+YYC-15 转世「一条归桥」
+YYC-16 新史「新幻想史 -现代史-」
+YYC-LW1 「日出国之天子」
+YYC-LW2 「无何有的浄化」
+!TEM 因幡帝符卡名
+HYZ-B 兔符「因幡的白兔」
+HYZ-C1 二兔追
+HYZ-C2|HYZ-C3 兔符「开运大纹」
+HYZ-EX 兔玉
+WHT-1 脱兔「Fluster Escape」
+WHT-2 借符「大穴牟迟大人的药」
+YYC-LW 「Ancient Duper」
+!TEM 铃仙符卡名
+FXT-1 惑视「离圆花冠(Corolla Vision)」
+FXT-2 幻爆「近眼花火(Mind Star Mine)」
+FXT-3 幻惑「花冠视线(Crown Vision)」
+FXT-4 「幻胧月睨(Lunatic Red Eyes)」
+FXT-5 弱心「丧心丧意(Demotivation)」
+FXT-6 丧心「丧心疮痍(Discarder)」
+FXT-7 毒烟幕「瓦斯织物之玉」
+FXT-8 生药「国士无双之药」
+FXT-K1 Mind Explosion
+FXT-K2 Illusionary Blast
+FXT-K3 Field Ultra Red
+FXT-K4 Disbelief Aspect
+FXT-K5 Mind Pending
+FXT-K6 Eyesight Cleaning
+FXT-K7 Field Ultra Violet
+FXT-K8 Disorder Eye
+FXT-K9 Mind Dropping
+FXT-K10 Ripple Vision
+FXT-K11 Under Sense Break
+FXT-S1 迫符「胁迫幻觉(Obsessioner)」
+FXT-S2 幻弹「幻想视差(Bluff Barrage)」
+FXT-S3 幻兔「平行交差(Parallel Cross)」
+FXTZ-1 长视「赤月下(Infrared Moon)」
+FXTZ-2 短视「超短脑波(X Wave)」
+FXTZ-3 赤眼「望见圆月(Lunatic Blast)」
+FXTZ-K1 Ocular Spectrum
+GZZ-B 「障壁波动(Evil Undulation)」
+GZZ-S Lunatic Gun
+GZZ-SS Mind Web
+HYZ-B 散符「荣华之梦(Luna Megalopolis)」
+HYZ-C1 Mind Explosion
+HYZ-C2|HYZ-C3 波符「月面波纹(Luna Wave)」
+HYZ-EX Metaphysical Mind
+PYH-1 「月面跳弹(Lunatic Double)」
+PYH-2 「幻胧月睨(Lunatic Red Eyes)」
+PYH-3 「地上跳弹(Lunatic Echo)」
+PYH-K1 Disorder Eye
+PYH-K2 Lunatic Gun
+PYH-K3 Disbelief Aspect
+PYH-K4 Medicine Chest
+PYH-K5 Lunatic Clamp
+PYH-OLW|PYH-TLW ＊你已经疯了！＊
+PYH-O|PYH-T 「看到我就发狂！」
+PYH-S1 狂槌符「狂视幻象(Disorder Eye)也变大吧」
+PYH-S2 火狂符「人体燃烧秘匿弹幕(Burning Hidden Bullet)」
+SML-1 「月面弹跳(Lunatic Double)」
+SML-2 「幻胧月睨(Lunatic Red Eyes)」
+SML-3 「地上弹跳(Lunatic Echo)」
+SML-K1 Disorder Eye
+SML-K2 Medicine Chest
+SML-K3 Lunatic Gun
+SML-K4 Lunatic Clamp
+SML-K5 Disbelief Aspect
+SML-O 看到我就发狂！
+SML-OLW ＊你已经疯了！＊
+WHT-1 散符「胧月花栞(Rocket in Mist)」
+WHT-2 波符「幻之月(Invisible Half Moon)」
+WHT-3 狂梦「疯狂的梦(Dream World)」
+YYC-1 波符「赤眼催眠(Mind Shaker)」
+YYC-2 幻波「赤眼催眠(Mind Blowing)」
+YYC-3 狂符「幻视调律(Visionary Tuning)」
+YYC-4 狂视「狂视调律(Illusion Seeker)」
+YYC-5 懒符「生神停止(Idling Wave)」
+YYC-6 懒惰「生神停止(Mind Stopper)」
+YYC-7 散符「真实之月(Invisible Full Moon)」
+YYC-8 月眼「月兔远程催眠术(Tele-Mesmerism)」
+YYC-LW 「幻胧月睨(Lunatic Red Eyes)」
+!TEM 八意永琳符卡名
+EMRJ-H1 永夜符「蓬莱壶中的弹枝」
+EMRJ-H2 永绯符「坠落的壶中有顶天」
+EMRJ-H3 永辉符「变大的壶」
+WHT-1 药符「蝴蝶梦丸噩梦」
+WHT-2 炼丹「水银之海」
+WHT-3 秘药「仙香玉兔」
+YYC-1 天丸「壶中的天地」
+YYC-2 觉神「神代的记忆」
+YYC-3 神符「天人的族谱」
+YYC-4 苏活「生命游戏 -Life Game-」
+YYC-5 苏生「Rising Game」
+YYC-6 操神「Omoikane Device」
+YYC-7 神脑「Omoikane Brain」
+YYC-8 天咒「Apollo 13」
+YYC-9 秘术「天文密葬法」
+YYC-10 禁药「蓬莱之药」
+YYC-11 药符「壶中的大银河」
+YYC-LW 「天网蛛网捕蝶之法」
+!TEM 蓬莱山辉夜符卡名
+EMRJ-H1 永夜符「蓬莱壶中的弹枝」
+EMRJ-H2 辉夜符「蓬莱的巨大弹枝」
+EMRJ-H3 绯夜符「蓬莱之弹的要石」
+WHT-1 新难题「月的钛铁矿」
+WHT-2 新难题「艾哲红石」
+WHT-3 新难题「金阁寺的整块天花板」
+WHT-4 新难题「Mysterium」
+YYC-1 难题「龙颈之玉　-五色的弹丸-」
+YYC-2 神宝「Brilliant Dragon Bullet」
+YYC-3 难题「佛御石之钵　-不碎的意志-」
+YYC-4 神宝「Buddhist Diamond」
+YYC-5 难题「火鼠的皮衣　-不焦躁的内心-」
+YYC-6 神宝「Salamander Shield」
+YYC-7 难题「燕的子安贝　-永命线-」
+YYC-8 神宝「Life Spring Infinity」
+YYC-9 难题「蓬莱的弹枝　-七色的弹幕-」
+YYC-10 神宝「蓬莱的玉枝　-梦色之乡-」
+YYC-11 「永夜归返　-初月-」
+YYC-12 「永夜归返　-新月-」
+YYC-13 「永夜归返　-上弦月-」
+YYC-14 「永夜归返　-待宵-」
+YYC-15 「永夜归返　-子之刻-」
+YYC-16 「永夜归返　-子时二刻-」
+YYC-17 「永夜归返　-子时三刻-」
+YYC-18 「永夜归返　-子时四刻-」
+YYC-19 「永夜归返　-丑之刻-」
+YYC-20 「永夜归返　-丑时二刻-」
+YYC-21 「永夜归返　-丑时三刻-」
+YYC-22 「永夜归返　-丑时四刻-」
+YYC-23 「永夜归返　-寅之刻-」
+YYC-24 「永夜归返　-寅时二刻-」
+YYC-25 「永夜归返　-寅时三刻-」
+YYC-26 「永夜归返　-寅时四刻-」
+YYC-27 「永夜归返　-朝霭-」
+YYC-28 「永夜归返　-拂晓-」
+YYC-29 「永夜归返　-破晓明星-」
+YYC-30 「永夜归返　-世间开明-」
+YYC-LW 「蓬莱的树海」
+!TEM 藤原妹红符卡名
+EMRJ-H1 萃夜符「身命雾散」
+EMRJ-H2 永珠符「舍身之反射」
+EMRJ-H3 永珠符「无秽之珠与多秽之灵」
+PYH-1 焰符「自灭火焰大旋风」
+PYH-2 不死「凯风快晴飞翔蹴」
+PYH-3 咒札「无差别起火之符」
+PYH-K1 Resurrection
+PYH-K2 自伤的火爪
+PYH-K3 火焰竹筒
+PYH-K4 火焰鸟
+PYH-K5 火焰脚
+PYH-K6 自伤的火脚
+PYH-OLW|PYH-TLW ＊这种世道赶紧烧个精光吧！＊
+PYH-O|PYH-T 「人体自燃」
+PYH-S1 化火符「妖怪弹幕变化 叶叶烨烨」
+PYH-S2 火狂符「人体燃烧秘匿弹幕（Burning Hidden Bullet）」
+PYH-S3 「这不知是第几次的生命，梦想封印吧」
+SML-1 焰符「自灭火焰大旋风」
+SML-2 不死「凯风快晴飞翔蹴」
+SML-3 咒札「无差别起火之符」
+SML-EX1 炎符「不死鸟之羽」
+SML-EX2 爪符「Desperate Claw」
+SML-EX3 惜命「不死之身的舍身击」
+SML-EX4 「这不知是第几次的生命，燃烧殆尽吧」
+SML-K1 Resurrection
+SML-K2 火焰鸟
+SML-K3 自伤的火爪
+SML-K4 自伤的火脚
+SML-K5 火焰竹筒
+SML-O 人体自燃
+SML-OLW ＊这种世道赶紧烧个精光吧！＊
+SML-S1 炎符「不死鸟的超高温羽毛」
+SML-S2 ＊凯风晴天快晴脚＊
+TXG-1 惜命「不死之身的舍身击」
+TXG-2 「火鸟 ‐不死传说‐」
+TXG-3 「Resurrection」
+WHT-1 贵人「圣日耳曼的忠告」
+WHT-2 蓬莱「瑞江浦岛子与五色的瑞龟」
+YYC-1 时效「月岩笠的诅咒」
+YYC-2 不死「火鸟　-凤翼天翔-」
+YYC-3 藤原「灭罪寺院伤」
+YYC-4 不死「徐福时空」
+YYC-5 灭罪「正直者之死」
+YYC-6 虚人「无」
+YYC-7 不灭「不死鸟之尾」
+YYC-8 蓬莱「凯风快晴　-Fujiyama Volcano-」
+YYC-9 「Possessed by Phoenix」
+YYC-10 「蓬莱人形」
+YYC-11 「Imperishable Shooting」
+YYC-LW 「不死鸟重生」
+!TEM 射命丸文符卡名
+DLD-B 「乌鸦的暗影」
+DLD-S 「深山颪」
+DSWHT-1 取材「射命丸文的暴力取材」
+DSWHT-2 望远「Candid Shot」
+DSWHT-3 抓拍「Fast Shot」
+DSWHT-4 「幻想风靡」
+FSL-1 岐符「天之八衢」
+FSL-2 岐符「猿田彦神之岔路」
+FSL-3 风神「风神木叶隐身术」
+FSL-4 风神「天狗颪」
+FSL-5 风神「二百十日」
+FSL-6 「幻想风靡」
+FSL-7 「无双风神」
+FSL-8 塞符「山神渡御」
+FSL-9 塞符「天孙降临」
+FSL-10 塞符「天上天下的照国」
+FXT-1 旋符「红叶扇风」
+FXT-2 龙卷「天孙降临的道标」
+FXT-3 逆风「人间禁制之道」
+FXT-4 突符「天狗巨暴流」
+FXT-5 风符「天狗道的开风」
+FXT-6 「幻想风靡」
+FXT-7 魔兽「镰鼬面纱」
+FXT-8 突风「猿田彦的先导」
+FXT-K1 疾风扇
+FXT-K2 疾走风靡
+FXT-K3 天狗的立风露
+FXT-K4 暗夜之砾
+FXT-K5 烈风扇
+FXT-K6 疾走优美
+FXT-K7 天狗的下爆流
+FXT-K8 镰风面纱
+FXT-K9 天狗倒树
+FXT-K10 天狗的太鼓
+FXT-S1 突风「猿田彦的先导」
+FXT-S2 旋符「飘妖扇」
+FXT-S3 旋风「鸟居旋风」
+FXT-S4 「幻想风靡」
+FXTZ-1 风符「天狗报当日截稿」
+FXTZ-2 鸦符「暗夜昼魇」
+FXTZ-K1 枫扇风
+FXTZ-K2 天狗砾
+HYZ-B 疾风「风神少女」
+HYZ-C1 辅扇
+HYZ-C2|HYZ-C3 风符「风神一扇」
+HYZ-EX 天狗烈风弹
+TKZ-B 风符「天狗暴风雨」
+TXG-1 写真「激摄天狗独家新闻」
+TXG-2 「瞬摄新闻工作者」
+!TEM 梅蒂欣符卡名
+HYZ-B 毒符「忧郁之毒」
+HYZ-C1 Poison Bee
+HYZ-C2|HYZ-C3 毒符「神经之毒」
+HYZ-EX Sweet Poison
+WHT-1 雾符「Gassing Garden」
+WHT-2 毒符「Poison Breath」
+WHT-3 谵妄「Into Delirium」
+!TEM 风见幽香符卡名
+HYZ-B 幻想「花鸟风月，啸风弄月」
+HYZ-C1 Flower Shooting
+HYZ-C2|HYZ-C3 花符「幻想乡的开花」
+HYZ-EX 幻想春花
+!TEM 小野塚小町符卡名
+FXT-1 舟符「宛若河流般」
+FXT-2 薄命「余命无几许」
+FXT-3 灵符「到处都是的浮游灵」
+FXT-4 死歌「八重雾中渡」
+FXT-5 换命「不惜身命，可惜身命」
+FXT-6 恨符「充满留恋的紧缚灵」
+FXT-7 死符「区别死者的镰刀」
+FXT-8 地狱「无间之狭间」
+FXT-K1 无惑而生的人灵
+FXT-K2 无法超度的地缚灵
+FXT-K3 脱魂的仪式
+FXT-K4 懒惰而生的浮游灵
+FXT-K5 死神的大镰
+FXT-K6 死出之风
+FXT-K7 无间之道
+FXT-K8 寂寞之人的紧缚灵
+FXT-K9 偶然路过的人灵
+FXT-K10 超渡体验版
+FXT-S1 灵符「古老的地缚灵之复苏」
+FXT-S2 死符「区别死者的镰刀」
+FXT-S3 魂符「魂之游戏」
+FXTZ-1 魂符「生魂流离的镰刀」
+FXTZ-K1 三途之舟
+FXTZ-K2 离魂之镰
+HYZ-B 死神「Higan Retour」
+HYZ-C1 死神的投钱
+HYZ-C2|HYZ-C3 投钱「隔夜钱」
+HYZ-EX 故人之缘
+WHT-1 死歌「八重雾中渡」
+WHT-2 古雨「黄泉中有旅途之雨」
+WHT-3 死价「Price of Life」
+!TEM 四季映姬符卡名
+EMRJ-H1 妖花符「蝴蝶风暴阎魔笏」
+EMRJ-H2 风花符「御射军神大人的是非」
+EMRJ-H3 风花符「御柱裁判」
+HYZ-B 审判「Last Judgement」
+HYZ-C1 德之说示
+HYZ-C2|HYZ-C3 罪符「彷徨的大罪」
+HYZ-EX 弹幕裁判
+WHT-1 谎言「Tongue of Wolf」
+WHT-2 审判「十王审判」
+WHT-3 审判「Guilty or Not Guilty」
+WHT-4 审判「净颇梨审判 -射命丸文-」
+!TEM 秋静叶符卡名
+DSWHT-1 秋符「Fall in Blast」
+DSWHT-2 枯道「Lost Windrow」
+FSL-1 叶符「纷乱的落叶」
+!TEM 秋穰子符卡名
+DSWHT-1 实符「Warm Color Harvest」
+DSWHT-2 烧芋「Sweet Potato Room」
+FSL-1 秋符「Autumn Sky」
+FSL-2 秋符「无常秋日与少女的心」
+FSL-3 丰符「Otoshi Harvester」
+FSL-4 丰收「谷物神的允诺」
+GOM-W 式神「谷物神的允诺」
+!TEM 键山雏符卡名
+DSWHT-1 厄野「禊川的沉积」
+DSWHT-2 灾祸「诅咒的雏人偶」
+FSL-1 厄符「Bad Fortune」
+FSL-2 厄符「厄神大人的生理节律」
+FSL-3 疵符「Broken Amulet」
+FSL-4 疵痕「损坏的护符」
+FSL-5 恶灵「Misfortune's Wheel」
+FSL-6 悲运「大钟婆之火」
+FSL-7 创符「Pain Flow」
+FSL-8 创符「流放人偶」
+!TEM 河城荷取符卡名
+DLD-B 「Optical Camouflage」
+DLD-S 「空中鱼雷」
+DSWHT-1 水符「Water Carpet」
+DSWHT-2 河符「Dividing Edge」
+DSWHT-3 河童「干燥尻子玉」
+FSL-1 光学「Optical Camouflage」
+FSL-2 光学「Hydro-Camouflage」
+FSL-3 洪水「Ooze Flooding」
+FSL-4 洪水「Diluvial Mare」
+FSL-5 漂溺「粼粼水底之心伤」
+FSL-6 水符「河童之河口浪潮」
+FSL-7 水符「河童之山洪暴发」
+FSL-8 水符「河童之幻想大瀑布」
+FSL-9 河童「妖怪黄瓜」
+FSL-10 河童「延展手臂」
+FSL-11 河童「Spin the Cephalic Plate」
+PYH-1 暴雨「河底大战争」
+PYH-2 泡符「射击吧！泡泡龙」
+PYH-3 战机「飞翔吧！三平加油」
+PYH-K1 水泡弹大回转
+PYH-K2 钻头少女
+PYH-K3 再会橡胶圈
+PYH-K4 光子鱼雷
+PYH-K5 空中冲击弹
+PYH-K6 菊一文字压缩机
+PYH-OLW|PYH-TLW ＊尼斯湖现在就在这里！＊
+PYH-O|PYH-T 「尼西号出击」
+PYH-S1 水面符「水泡弹假面舞会」
+PYH-S2 拳水符「入道丛云水泡弹拳」
+SML-1 暴雨「河底大战争」
+SML-2 泡符「射击吧！泡泡龙」
+SML-3 战机「飞翔吧！三平加油」
+SML-K1 水泡弹大回转
+SML-K2 空中冲击弹
+SML-K3 再会橡胶圈
+SML-K4 菊一文字压缩机
+SML-K5 光子鱼雷
+SML-O 尼西号出击
+SML-OLW ＊尼斯湖现在就在这里！＊
+SML-S1 ＊尼西的完全养殖技术＊
+TXG-1 瀑符「Shiraito Fall」
+TXG-2 瀑符「Kegon Gun」
+XQL-1 暴雨「河底大战争」
+XQL-2 泡符「射击吧！泡泡龙」
+XQL-3 战机「飞翔吧！三平加油」
+XQL-K1 空中冲击弹
+XQL-K2 光子鱼雷
+XQL-K3 再会橡胶圈
+XQL-K4 罪恶齿轮
+XQL-K5 水泡弹大回转
+XQL-K6 菊一文字压缩机
+XQL-K7 黄瓜音响系统
+XQL-LW 「Super Scope 3D」
+XQL-S1 水符「夏天的塑料瓶火箭」
+XQL-S2 妖怪战舰「三平战机」
+!TEM 东风谷早苗符卡名
+DLD-1 秘法「九字切」
+DLD-2 奇迹「Miracle Fruit」
+DLD-3 神德「五谷丰穰米之浴」
+DSWHT-1 奇迹「弘安的神风」
+DSWHT-2 蛙符「操纵蛤蟆」
+DSWHT-3 妖怪退治「妖力掠夺者」
+FSL-1 秘术「Gray Thaumaturgy」
+FSL-2 秘术「遗忘之祭仪」
+FSL-3 秘术「一脉单传之弹幕」
+FSL-4 奇迹「白昼的客星」
+FSL-5 奇迹「客星璀璨之夜」
+FSL-6 奇迹「客星辉煌之夜」
+FSL-7 开海「海水分开之日」
+FSL-8 开海「摩西之奇迹」
+FSL-9 准备「呼唤神风的星之仪式」
+FSL-10 准备「Summon Takeminakata」
+FSL-11 奇迹「神之风」
+FSL-12 大奇迹「八坂之神风」
+FXTZ-1 祈愿「守护商业繁荣」
+FXTZ-2 秘术「Gray Thaumaturgy」
+FXTZ-3 神签「暴乱神签连掷」
+FXTZ-4 开海「海水分开之日」
+FXTZ-5 奇迹「白昼的客星」
+FXTZ-6 秘术「遗忘之祭仪」
+FXTZ-7 奇迹「客星辉煌之夜」
+FXTZ-8 开海「摩西之奇迹」
+FXTZ-9 秘法「九字切」
+FXTZ-K1 唤风
+FXTZ-K2 起浪
+FXTZ-K3 星落
+FXTZ-K4 乾神招来　突
+FXTZ-K5 乾神招来　风
+FXTZ-K6 乾神招来　御柱
+FXTZ-K7 坤神招来　盾
+FXTZ-K8 坤神招来　铁轮
+FXTZ-K9 坤神招来　陷阱
+FXTZ-K10 御神签炸弹
+FXTZ-K11 Sky Serpent
+FXTZ-K12 Cobalt Spread
+FXTZ-S1 蛇符「云泳大蛇」
+FXTZ-S2 奇迹「空中落物的奇迹」
+GZZ-B 蛙符「操纵蛤蟆」
+GZZ-S Cobalt Spread
+GZZ-SS Sky Serpent
+SLM-B 秘术「Gray Thaumaturgy」
+SLM-S Mighty Wind
+SLM-SS Wind Blast
+TXG-1 蛇符「Bind Snake Come On」
+TXG-2 蛇符「Green Snake Come On」
+XLC-B1 蛇符「神代大蛇」
+XLC-B2 蛙符「操纵蛤蟆」
+XLC-S1 Sky Serpent
+XLC-S2 Cobalt Spread
+!TEM 八坂神奈子符卡名
+DSWHT-1 蛇符「Ground Serpent」
+DSWHT-2 御柱「Meteoric Onbashira」
+DSWHT-3 儚道「御神渡路口」
+EMRJ-H1 风神符「御射军神柱」
+EMRJ-H2 风妖符「死蝶御柱」
+EMRJ-H3 风花符「御柱裁判」
+FSL-1 神祭「Expanded Onbashira」
+FSL-2 奇祭「目处梃子乱舞」
+FSL-3 筒粥「神之粥」
+FSL-4 忘谷「Unremembered Crop」
+FSL-5 神谷「Divining Crop」
+FSL-6 贽符「御射山御狩神事」
+FSL-7 神秘「葛井之清水」
+FSL-8 神秘「Yamato Torus」
+FSL-9 天流「天水奇迹」
+FSL-10 天龙「雨之源泉」
+FSL-11 「Mountain of Faith」
+FSL-12 「风神之神德」
+FSL-13 神符「如水眼之美丽源泉」
+FSL-14 神符「结于杉木之古缘」
+FSL-15 神符「神所踏足之御神渡」
+TXG-1 御柱「Rising Onbashira」
+TXG-2 「神明的威光」
+!TEM 洩矢诹访子符卡名
+DSWHT-1 神樱「湛樱花吹雪」
+DSWHT-2 姬川「Princess Jade Green」
+DSWHT-3 铁轮「Mythical Ring」
+DSWHT-4 土地神「御射军神大人」
+EMRJ-H1 风神符「御射军神柱」
+EMRJ-H2 风花符「御射军神大人的是非」
+EMRJ-H3 妖风符「土著蝶风暴」
+FSL-1 开宴「二拜二拍一拜」
+FSL-2 土著神「手长足长大人」
+FSL-3 神具「洩矢的铁轮」
+FSL-4 源符「厌川的翡翠」
+FSL-5 蛙狩「蛙以口鸣，方致蛇祸」
+FSL-6 土著神「七石七木」
+FSL-7 土著神「小小青蛙不输风雨」
+FSL-8 土著神「宝永四年的赤蛙」
+FSL-9 「诹访大战 ～ 土著神话 vs 中央神话」
+FSL-10 祟符「洩矢大人」
+FXTZ-1 源符「诹访清水」
+FXTZ-2 神具「洩矢的铁轮」
+FXTZ-3 土著神「洩矢神」
+FXTZ-4 开宴「二拜二拍一拜」
+FXTZ-5 土著神「小小青蛙不输风雨」
+FXTZ-6 源符「厌川的翡翠」
+FXTZ-7 蛙狩「蛙以口鸣，方致蛇祸」
+FXTZ-8 土著神「手长足长大人」
+FXTZ-9 土著神「宝永四年的赤蛙」
+FXTZ-10 蛙休「总是能够冬眠」
+FXTZ-11 祟神「赤口大人」
+FXTZ-K1 大地之湖
+FXTZ-K2 古代翡翠
+FXTZ-K3 蛙石神
+FXTZ-K4 大蛤蟆神
+FXTZ-K5 古老铁轮
+FXTZ-K6 长手长脚神
+FXTZ-K7 古老的间歇泉
+FXTZ-K8 水蛙神
+FXTZ-K9 招雨的雨蛙
+FXTZ-K10 土著神的作祟
+FXTZ-K11 诅咒的大地
+FXTZ-K12 赤口大神的作祟
+FXTZ-S1 合掌「大太法师的参拜」
+FXTZ-S2 神具「洩矢的铁轮」
+FXTZ-S3 「炽如地狱的间歇泉」
+FXTZ-S4 「岩浆的两栖类」
+FXTZ-S5 「幻想乡空中神战」
+TXG-1 绿石「Jade Break」
+TXG-2 蛙符「涂有鲜血的赤蛙塚」
+!TEM 永江衣玖符卡名
+DSWHT-1 雷符「Lightning Fish」
+DSWHT-2 珠符「五爪龙之珠」
+DSWHT-3 龙宫「鲷和比目鱼的舞蹈」
+DSWHT-4 龙鱼「龙宫使的游泳弹」
+EMRJ-H1 辉天符「迅雷的咚咚太鼓」
+EMRJ-H2 绯星符「真相不明的落雷」
+EMRJ-H3 神绯符「雷雨中的跟踪狂」
+FXT-1 电符「雷鼓弹」
+FXT-2 鱼符「龙鱼电钻」
+FXT-3 雷符「电气的龙宫」
+FXT-4 光星「光龙之叹息」
+FXT-5 雷鱼「雷云鱼游泳弹」
+FXT-6 羽衣「羽衣若空」
+FXT-7 棘符「雷云棘鱼」
+FXT-8 龙鱼「龙宫使的游泳弹」
+FXT-K1 龙鱼的一击
+FXT-K2 羽衣若水
+FXT-K3 龙鱼之怒
+FXT-K4 静电诱导弹
+FXT-K5 龙神的一击
+FXT-K6 羽衣若风
+FXT-K7 龙神之怒
+FXT-K8 龙神的电光
+FXT-K9 龙之眼
+FXT-S1 光玉「闪光之龙眼」
+FXT-S2 雷符「神鸣者的住处」
+FXT-S3 棘符「雷云棘鱼」
+FXT-S4 云界「玄云海的雷庭」
+FXTZ-1 羽衣「羽衣若时」
+FXTZ-2 珠符「五爪龙之珠」
+FXTZ-K1 龙鱼得水
+FXTZ-K2 天女的一击
+FXTZ-K3 龙神之须
+!TEM 比那名居天子符卡名
+DSWHT-1 气性「勇气凛凛之剑」
+DSWHT-2 地震「避难险路」
+DSWHT-3 要石「要石浮游炮」
+DSWHT-4 「全人类的绯想天」
+EMRJ-H1 绯针符「要石也给我变大吧」
+EMRJ-H2 永绯符「坠落的壶中有顶天」
+EMRJ-H3 绯夜符「蓬莱之弹的要石」
+FXT-1 地符「不让土壤之剑」
+FXT-2 非想「非想非非想之剑」
+FXT-3 天符「天道是非之剑」
+FXT-4 地震「先忧后乐之剑」
+FXT-5 气符「天启气象之剑」
+FXT-6 要石「天地开辟之挤压」
+FXT-7 气符「无念无想的境界」
+FXT-8 「全人类的绯想天」
+FXT-K1 坤仪之剑
+FXT-K2 天罚的石柱
+FXT-K3 非想的威光
+FXT-K4 非想之剑
+FXT-K5 六震-相-
+FXT-K6 守护的要石
+FXT-K7 天地之压
+FXT-K8 绯想之剑
+FXT-S1 要石「天空之灵石」
+FXT-S2 乾坤「粗暴而又像母亲般的大地啊」
+FXT-S3 灵想「镇守大地之石」
+FXT-S4 天地「俯瞰世界的遥远的大地啊」
+FXT-S5 「全人类的绯想天」
+FXTZ-1 剑技「气焰万丈之剑」
+FXTZ-2 天气「绯想天促」
+FXTZ-K1 绯想的剑气
+FXTZ-K2 升天突
+FXTZ-K3 因果之剑
+FXTZ-K4 地精的起床
+PYH-1 要石「要石浮游炮」
+PYH-2 地符「一击震乾坤」
+PYH-3 桃符「固若金汤的仙桃」
+PYH-K1 要石陀螺
+PYH-K2 非想的威光
+PYH-K3 天地之压
+PYH-K4 天人的飞翔
+PYH-K5 高空之剑
+PYH-OLW|PYH-TLW ＊大气圈尽在吾之手中＊
+PYH-O|PYH-T 「HAARP的超常气象」
+PYH-S1 升槌符「载着我们的梦变大吧」
+PYH-S2 坠槌符「梦坠入大气圈变大吧」
+PYH-S3 「全小人族的绯想天」
+PYH-S4 梦要符「羊毛色的乾坤一掷」
+PYH-S5 升符「飞向遥远的宇宙吧！ 载着我们的梦想」
+PYH-S6 坠符「落入大气圈，梦想倾泻地表」
+PYH-S7 「把大地重塑成，有梦的世界吧！」
+PYH-S8 「巨型战舰 无双大鲶鱼参见」
+PYH-S9 「全宇宙人的绯想天」
+TXG-1 「全妖怪的绯想天」
+TXG-2 「鹿岛镇护」
+!TEM 绵月依姬符卡名
+MYC-1 「火雷神」
+MYC-2 「金山彦命」
+MYC-3 「天津瓮星」
+MYC-4 「石凝姥命」
+MYC-5 「天宇受卖命」
+MYC-6 「天照大御神」
+MYC-7 「伊豆能卖」
+!TEM 琪斯美符卡名
+DLD-1 怪奇「钓瓶落之怪」
+DSWHT-1 钓瓶「飞入井中」
+DSWHT-2 钓瓶「Well Destructor」
+!TEM 黑谷山女符卡名
+DLD-1 罠符「Capture Web」
+DLD-2 蜘蛛「石窟的蜘蛛巢」
+DLD-3 瘴符「Filled Miasma」
+DLD-4 瘴气「原因不明的热病」
+DSWHT-1 细索「犍陀多绳索」
+DSWHT-2 毒符「桦黄小町」
+!TEM 水桥符卡名
+DLD-1 妒符「Green-Eyed Monster」
+DLD-2 嫉妒「看不见的绿眼怪兽」
+DLD-3 开花爷爷「对华丽的仁者之嫉妒」
+DLD-4 开花爷爷「小白的灰烬」
+DLD-5 剪舌麻雀「对谦虚的富者之记恨」
+DLD-6 剪舌麻雀「大葛笼与小葛笼」
+DLD-7 恨符「丑时参拜」
+DLD-8 恨符「丑时参拜第七日」
+DSWHT-1 嫉妒「Jealousy Bomber」
+DSWHT-2 怨恨念法「积怨返」
+!TEM 星熊勇仪符卡名
+DLD-1 鬼符「怪力乱神」
+DLD-2 怪轮「地狱之苦轮」
+DLD-3 枷符「罪人不释之枷」
+DLD-4 力业「大江山岚」
+DLD-5 力业「大江山颪」
+DLD-6 四天王奥义「三步必杀」
+DSWHT-1 光鬼「金刚螺旋」
+DSWHT-2 鬼符「鬼气狂澜」
+DSWHT-3 鬼声「毁灭之咆哮」
+!TEM 古明地觉符卡名
+DLD-1 回忆「Terrible Souvenir」
+DLD-2 回忆「恐怖催眠术」
+DLD-3 回忆「二重黑死蝶」
+DLD-4 回忆「飞行虫之巢」
+DLD-5 回忆「波与粒的境界」
+DLD-6 回忆「户隐山之投」
+DLD-7 回忆「百万鬼夜行」
+DLD-8 回忆「蒙蒙迷雾」
+DLD-9 回忆「风神木叶隐身术」
+DLD-10 回忆「天狗巨暴流」
+DLD-11 回忆「鸟居旋风」
+DLD-12 回忆「春之京都人偶」
+DLD-13 回忆「Straw Doll Kamikaze」
+DLD-14 回忆「Return Inanimateness」
+DLD-15 回忆「Mercury Poison」
+DLD-16 回忆「Princess Undine」
+DLD-17 回忆「贤者之石」
+DLD-18 回忆「延展手臂」
+DLD-19 回忆「河童之河口浪潮」
+DLD-20 回忆「粼粼水底之心伤」
+DSWHT-1 脑符「Brain Fingerprint」
+DSWHT-2 心花「Camera-Shy Rose」
+DSWHT-3 回忆「朦胧记忆中的金阁寺」
+EMRJ-H1 地灵符「Mind Stellar Steal」
+EMRJ-H2 「Perfect Mind Control」
+EMRJ-H3 地妖符「自我的式神」
+!TEM 火焰猫燐符卡名
+DLD-1 猫符「Cat's Walk」
+DLD-2 猫符「怨灵猫乱步」
+DLD-3 咒精「Zombie Fairy」
+DLD-4 咒精「怨灵凭依妖精」
+DLD-5 恨灵「Spleen Eater」
+DLD-6 尸灵「食人怨灵」
+DLD-7 赎罪「旧地狱的针山」
+DLD-8 赎罪「古时之针与痛楚的怨灵」
+DLD-9 「死灰复燃」
+DLD-10 「小恶灵复活」
+DLD-11 妖怪「火焰的车轮」
+DSWHT-1 死符「Ghost Town」
+DSWHT-2 「尸体繁华街」
+DSWHT-3 醉步「Cat Random Walk」
+!TEM 灵乌路空符卡名
+DLD-1 核热「Nuclear Fusion」
+DLD-2 核热「Nuclear Excursion」
+DLD-3 核热「核反应失控」
+DLD-4 爆符「Petit Flare」
+DLD-5 爆符「Mega-Flare」
+DLD-6 爆符「Giga-Flare」
+DLD-7 爆符「Peta-Flare」
+DLD-8 焰星「Fixed Star」
+DLD-9 焰星「Planetary Revolution」
+DLD-10 焰星「十凶星」
+DLD-11 「地狱极乐熔毁」
+DLD-12 「Hell's Tokamak」
+DLD-13 「地狱的人造太阳」
+DLD-14 「Subterranean Sun」
+DSWHT-1 熔解「Melting White」
+DSWHT-2 巨星「Red Giant」
+DSWHT-3 星符「巨星陨落」
+DSWHT-4 七星「Septentrion」
+EMRJ-H1 地灵符「Mind Stellar Steal」
+EMRJ-H2 地妖符「式神大星」
+EMRJ-H3 地灵符「Mind Stellar Relief」
+FXTZ-1 「地狱的人造太阳」
+FXTZ-2 控制「Self Tokamak」
+FXTZ-3 遮光「核热护罩」
+FXTZ-4 爆符「Mega-Flare」
+FXTZ-5 焰星「Fixed Star」
+FXTZ-6 核符「Creeping Sun」
+FXTZ-7 光热「High Tension Blade」
+FXTZ-8 焰星「十凶星」
+FXTZ-9 地热「核焰喷涌」
+FXTZ-10 鸦符「八咫乌俯冲」
+FXTZ-11 核热「核反应失控疾冲」
+FXTZ-12 「Subterranean Sun」
+FXTZ-13 爆符「Giga-Flare」
+FXTZ-14 「Abyss Nova」
+FXTZ-K1 Ground Melt
+FXTZ-K2 Hell Geyser
+FXTZ-K3 Radiant Blade
+FXTZ-K4 Flare Up
+FXTZ-K5 Rocket Dive
+FXTZ-K6 溶解转体踢
+FXTZ-K7 Shooting Star
+FXTZ-K8 复古原子核模型
+FXTZ-K9 核热的怨灵
+FXTZ-K10 Break Sun
+FXTZ-K11 Shooting Sun
+FXTZ-K12 地狱波动炮
+FXTZ-S1 热符「Break Prominence」
+FXTZ-S2 核热「核反应失控疾冲」
+FXTZ-S3 「热木星降落模型」
+FXTZ-S4 核热「人造太阳的黑子」
+!TEM 古明地恋符卡名
+DLD-1 表象「列祖列宗入梦来」
+DLD-2 表象「弹幕偏执症」
+DLD-3 本能「本我的解放」
+DLD-4 抑制「Super Ego」
+DLD-5 反应「妖怪测谎机」
+DLD-6 无意识「弹幕的墨迹测验」
+DLD-7 复燃「恋爱的埋火」
+DLD-8 深层「无意识的基因」
+DLD-9 「被厌恶者的哲学」
+DLD-10 「Subterranean Rose」
+DSWHT-1 心符「没我之爱」
+DSWHT-2 记忆「DNA的瑕疵」
+DSWHT-3 「胎儿之梦」
+DSWHT-4 「蔷薇地狱」
+EMRJ-H1 地妖符「本我的式神」
+EMRJ-H2 「Perfect Mind Control」
+EMRJ-H3 地灵符「Mind Stellar Relief」
+PYH-1 抑制「Super Ego」
+PYH-2 本能「本我的解放」
+PYH-3 梦符「先祖大人在看着你」
+PYH-K1 Unanswered Love
+PYH-K2 Catch and Rose
+PYH-K3 Reflex Radar
+PYH-K4 Fidgety Snatcher
+PYH-K5 Stinging Mind
+PYH-OLW|PYH-TLW ＊现在就给你打电话别忘了接哦＊
+PYH-O|PYH-T 「我现在就去你那里哦」
+PYH-S1 星恋符「Sprinkle Star & Heart」
+PYH-S2 恋拳符「玫瑰狂想曲怪云拳」
+PYH-S3 槌恋符「大判小判叮叮当心」
+SML-1 抑制「Super Ego」
+SML-2 本能「本我的解放」
+SML-3 梦符「先祖大人在看着你」
+SML-K1 Unanswered Love
+SML-K2 Fidgety Snatcher
+SML-K3 Catch and Rose
+SML-K4 Stinging Mind
+SML-K5 Reflex Radar
+SML-O 我现在就去你那里哦
+SML-OLW ＊现在就给你打电话别忘了接哦＊
+SML-S1 ＊被诅咒的响一声电话＊
+XQL-1 抑制「Super Ego」
+XQL-2 本能「本我的解放」
+XQL-3 梦符「先祖大人在看着你」
+XQL-K1 Conditioned Teleport
+XQL-K2 Fidgety Snatcher
+XQL-K3 Growing Pain
+XQL-K4 Catch and Rose
+XQL-K5 Reflex Radar
+XQL-K6 Stinging Mind
+XQL-K7 Unanswered Love
+XQL-LW 「Brambly Rose Garden」
+XQL-S1 本能「Freudian」
+XQL-S2 茨符「Confined Innocent」
+!TEM Naz符卡名
+DSWHT-1 棒符「Nazrin Rod」
+DSWHT-2 财宝「Gold Rush」
+XLC-1 棒符「Busy Rod」
+XLC-2 搜符「Rare Metal Detector」
+XLC-3 搜符「Gold Detector」
+XLC-4 视符「Nazrin Pendulum」
+XLC-5 视符「高感度娜兹玲灵摆」
+XLC-6 守符「Pendulum Guard」
+XLC-7 宝塔「Greatest Treasure」
+!TEM 多多良小伞符卡名
+DSWHT-1 伞符「单脚投手返」
+DSWHT-2 虹符「Over the Rainbow」
+DSWHT-3 伞符「细雪的过客」
+SLM-1 虹符「Umbrella Cyclone」
+XLC-1 大轮「唐伞光晕」
+XLC-2 大轮「Hello, Forgotten World」
+XLC-3 伞符「Parasol Star Symphony」
+XLC-4 伞符「Parasol Star Memories」
+XLC-5 雨符「雨夜怪谈」
+XLC-6 雨伞「超防水干爽伞妖」
+XLC-7 化符「遗忘之伞的夜行列车」
+XLC-8 化铁「备用伞特急夜晚狂欢号」
+XLC-9 伞符「大颗的泪雨」
+XLC-10 惊雨「台风骤雨」
+XLC-11 光晕「唐伞惊吓闪光」
+!TEM 云居一轮符卡名
+DSWHT-1 拳骨「天空铁锤落」
+DSWHT-2 稻妻「带电入道」
+DSWHT-3 铁拳「入道唰」
+PYH-1 岚符「佛罚的秋台风」
+PYH-2 积乱「见越入道云」
+PYH-3 拳固「忏悔的杀风」
+PYH-K1 愤怒的驰云
+PYH-K2 慈悲的北颪
+PYH-K3 岭云的佛光
+PYH-K4 一握的浮云
+PYH-K5 滑空宝轮
+PYH-K6 垂云的铁锤
+PYH-OLW|PYH-TLW ＊265厘米的魔人现身！＊
+PYH-O|PYH-T 「仲夏夜的软禁」
+PYH-S1 拳风符「入道丛云风水拳」
+PYH-S2 拳星符「入道丛云Slave Spark」
+PYH-S3 击拳符「韦驮天的怪云拳」
+PYH-S4 恋拳符「玫瑰狂想曲怪云拳」
+PYH-S5 光拳符「因陀罗的金刚杵怪云拳」
+PYH-S6 拳水符「入道丛云水泡弹拳」
+SML-1 岚符「佛罚的秋台风」
+SML-2 积乱「见越入道云」
+SML-3 拳固「忏悔的杀风」
+SML-K1 愤怒的驰云
+SML-K2 一握的浮云
+SML-K3 慈悲的北颪
+SML-K4 垂云的铁锤
+SML-K5 岭云的佛光
+SML-O 仲夏夜的软禁
+SML-OLW ＊265厘米的魔人现身！＊
+SML-S1 恶符「八丈高的灵异柱」
+SML-S2 ＊被谜之女子囚禁的仲夏之夜＊
+XLC-1 铁拳「问答无用妖怪拳」
+XLC-2 神拳「凌云地狱冲」
+XLC-3 神拳「天海地狱冲」
+XLC-4 拳符「天网沙袋」
+XLC-5 连打「云界海妖来袭」
+XLC-6 连打「帝王海妖来袭」
+XLC-7 拳打「重拳碎击」
+XLC-8 溃灭「天上天下连续勾拳」
+XLC-9 大喝「守旧尊老之怒眼」
+XLC-10 忿怒「天变巨眼焚身」
+XLC-11 忿怒「空前绝后巨眼焚身」
+XQL-1 岚符「佛罚的秋台风」
+XQL-2 积乱「见越入道云」
+XQL-3 拳固「忏悔的杀风」
+XQL-K1 垂云的铁锤
+XQL-K2 一握的浮云
+XQL-K3 小小的神立云
+XQL-K4 愤怒的驰云
+XQL-K5 岭云的佛光
+XQL-K6 殴杀的流云
+XQL-K7 慈悲的北颪
+XQL-LW 「华丽的老爹时代」
+XQL-S1 拳符「愤怒的大云块」
+XQL-S2 入道「夏之幻想太郎」
+!TEM 村纱水蜜符卡名
+DSWHT-1 锚符「幽灵船长期停泊」
+DSWHT-2 浸水「船底的维纳斯」
+DSWHT-3 「Deep Sinker」
+XLC-1 倾覆「同路人之锚」
+XLC-2 倾覆「沉没之锚」
+XLC-3 倾覆「击沉之锚」
+XLC-4 溺符「Deep Vortex」
+XLC-5 溺符「Sinkable Vortex」
+XLC-6 港符「Phantom Ship Harbor」
+XLC-7 港符「幽灵船之港」
+XLC-8 港符「幽灵船永久停泊」
+XLC-9 幽灵「Sinker Ghost」
+XLC-10 幽灵「悄然袭来的长勺」
+!TEM 寅丸星符卡名
+DSWHT-1 寅符「Hungry Tiger」
+DSWHT-2 天符「焦土曼荼罗」
+DSWHT-3 宝符「黄金的震眩」
+XLC-1 宝塔「Radiant Treasure」
+XLC-2 宝塔「Radiant Treasure Gun」
+XLC-3 光符「Absolute Justice」
+XLC-4 光符「正义之威光」
+XLC-5 法力「至宝之独钴杵」
+XLC-6 法灯「无瑕佛法之独钴杵」
+XLC-7 光符「净化之魔」
+XLC-8 「Complete Clarification」
+!TEM 圣白莲符卡名
+DSWHT-1 「游行圣」
+DSWHT-2 习合「垂迹大日如来」
+DSWHT-3 「星之剑护法」
+EMRJ-H1 星神符「十七条的超人」
+EMRJ-H2 红星符「超人血刀」
+EMRJ-H3 红星符「超人大灾变行脚」
+PYH-1 天符「三千大千世界之主」
+PYH-2 天符「大日如来的光辉」
+PYH-3 天符「释迦牟尼的五行山」
+PYH-K1 咏唱
+PYH-K2 哈奴曼之舞
+PYH-K3 迦楼罗之爪
+PYH-K4 韦驮天之脚
+PYH-K5 难近母之魂
+PYH-K6 恒河母之一滴
+PYH-K7 广目天之眼
+PYH-K8 因陀罗之雷
+PYH-OLW|PYH-TLW ＊以100迈驰骋天际！＊
+PYH-O|PYH-T 「Silver Skyway」
+PYH-S1 光击符「引导着你的王道的金刚杵射击」
+PYH-S2 击拳符「韦驮天的怪云拳」
+PYH-S3 击光符「韦驮天的王道威光」
+PYH-S4 蹴斩符「迦楼罗的圣德斩」
+PYH-S5 光仙符「日出之国的僧侣和道士」
+PYH-S6 光拳符「因陀罗的金刚杵怪云拳」
+PYH-S7 击符「被韦驮天追逐的正梦」
+SML-1 天符「三千大千世界之主」
+SML-2 天符「大日如来的光辉」
+SML-3 天符「释迦牟尼的五行山」
+SML-EX1 光符「因陀罗的金刚杵」
+SML-EX2 超人「圣白莲」
+SML-EX3 超人「大追踪！Buddhist Rider」
+SML-K1 哈奴曼之舞
+SML-K2 迦楼罗之爪
+SML-K3 广目天之眼
+SML-K4 韦驮天之脚
+SML-K5 因陀罗之雷
+SML-K6 难近母之魂
+SML-O Silver Skyway
+SML-OLW ＊以100迈驰骋天际！＊
+SML-S1 超音速「老妇人的冲刺」
+SML-S2 ＊高速路涡轮空中转向＊
+SML-S3 ＊涡轮老太婆走死走爱＊
+TXG-1 「黑天的束缚」
+TXG-2 「梵天之瞳」
+XLC-1 魔法「紫云之兆」
+XLC-2 吉兆「紫色云路」
+XLC-3 吉兆「极乐的紫色云路」
+XLC-4 魔法「魔界蝶之妖香」
+XLC-5 魔法「Magic Butterfly」
+XLC-6 光魔「Star Maelstrom」
+XLC-7 光魔「魔法银河系」
+XLC-8 大魔法「魔神复诵」
+XLC-9 「圣尼公之大空卷轴」
+XLC-10 超人「圣白莲」
+XLC-11 飞钵「Flying Fantastica」
+XLC-12 飞钵「传说的飞空圆盘」
+XQL-1 天符「三千大千世界之主」
+XQL-2 天符「大日如来的光辉」
+XQL-3 天符「释迦牟尼的五行山」
+XQL-K1 哈奴曼之舞
+XQL-K2 广目天之眼
+XQL-K3 因陀罗之雷
+XQL-K4 韦驮天之脚
+XQL-K5 毗瑠璃之剑
+XQL-K6 迦楼罗之爪
+XQL-K7 难近母之魂
+XQL-LW 「Angirasa Veda」
+XQL-S1 杵符「金刚手菩萨的咒文」
+XQL-S2 超人「迦楼罗之翼」
+!TEM 封兽鵺符卡名
+DSWHT-1 真相不明「紫镜」
+DSWHT-2 真相不明「红披风蓝披风」
+DSWHT-3 真相不明「厕所里的花子」
+DSWHT-4 「自行星而来的弹幕X」
+EMRJ-H1 神星符「真相不明的怪光人潮」
+EMRJ-H2 绯星符「真相不明的落雷」
+EMRJ-H3 辉星符「真相不明的咚咚太鼓」
+SLM-1 未知「轨道不明的鬼火」
+SLM-2 未知「姿态不明的空鱼」
+SLM-3 未知「原理不明的妖怪玉」
+XLC-1 妖云「平安时代的黑云」
+XLC-2 真相不明「愤怒的红色UFO袭来」
+XLC-3 鵺符「鵺的蛇行表演」
+XLC-4 真相不明「哀愁的蓝色UFO袭来」
+XLC-5 鵺符「弹幕奇美拉」
+XLC-6 真相不明「忠义的绿色UFO袭来」
+XLC-7 鵺符「Undefined Darkness」
+XLC-8 真相不明「恐怖的虹色UFO袭来」
+XLC-9 「平安京的恶梦」
+XLC-10 恨弓「源三位赖政之弓」
+!TEM 大鲶鱼符卡名
+FXTZ-S1 鲶鱼「看哪，世界在震动哦？」
+FXTZ-S2 鲶鱼「土壤液化现象让大地也像泥一样了！」
+FXTZ-S3 鲶鱼「即使是发电也会努力哦？」
+FXTZ-S4 鲶鱼「全电气化更加环保！」
+FXTZ-S5 大鲶鱼「这一招出来，连尘世都要完结了！！」
+!TEM 犬走椛符卡名
+DSWHT-1 狗符「Rabies Bite」
+DSWHT-2 山窝「Expellees' Canaan」
+TXG-1 牙符「咀嚼玩味」
+!TEM 姬海棠符卡名
+DSWHT-1 采访「姬海棠果的采访练习」
+DSWHT-2 连拍「Rapid Shot」
+DSWHT-3 远视「天狗念写法」
+TXG-1 写真「Full Panorama Shot」
+TXG-2 写真「足不出户的狗仔队」
+!TEM 桑尼符卡名
+DZZ-1 阳光「Sunshine Blast」
+DZZ-2 虹光「Prism Flash」
+DZZ-3 光精「Diamond Ring」
+DZZ-4 光符「Blue Deflection」
+DZZ-5 日符「Aggressive Light」
+DZZ-6 日符「Direct Sunlight」
+DZZ-7 瞬光「Fatal Flash」
+DZZ-8 光精「Cross Diffusion」
+DZZ-9 光符「Yellow Deflection」
+DZZ-10 阳光「Sunshine Needle」
+DZZ-H1 光符「Rutile Flection」
+DZZ-H2 空符「Elfin Canopy」
+DZZ-H3 光符「Triple Meteor」
+DZZ-H4 光星「Orion Belt」
+DZZ-H5 光符「Bright Night」
+DZZ-H6 空符「Break Canopy」
+DZZ-H7 光符「Extensive Meteor」
+DZZ-H8 光星「Great Triangle」
+DZZ-H9 光符「Full Moon Night」
+DZZ-H10 降光「Triple Light」
+DZZ-H11 光符「Hyper Inflection」
+DZZ-H12 激光「Sun Burst」
+DZZ-H13 星热「Ice Dissolver」
+DZZ-H14 月热「Ice Dissolver」
+DZZ-H15 日热「Ice Dissolver」
+DZZ-H16 协力技「Fairy Overdrive」
+DZZ-H17 「Three Fairies」
+!TEM 露娜符卡名
+DZZ-1 月符「Lunatic Rain」
+DZZ-2 月符「Luna Cyclone」
+DZZ-3 月光「Silent Storm」
+DZZ-4 月光「Dark Stillness」
+DZZ-5 障光「Moonlight Wall」
+DZZ-6 夜符「Night Fairies」
+DZZ-7 月光「Silent Flower」
+DZZ-8 月光「Moon Stillness」
+DZZ-9 光壁「Wall Break」
+DZZ-10 月光「Silent Cyclone」
+DZZ-H1 光符「Rutile Flection」
+DZZ-H2 空符「Elfin Canopy」
+DZZ-H3 光符「Triple Meteor」
+DZZ-H4 光星「Orion Belt」
+DZZ-H5 光符「Bright Night」
+DZZ-H6 空符「Break Canopy」
+DZZ-H7 光符「Extensive Meteor」
+DZZ-H8 光星「Great Triangle」
+DZZ-H9 光符「Full Moon Night」
+DZZ-H10 降光「Triple Light」
+DZZ-H11 光符「Hyper Inflection」
+DZZ-H12 激光「Sun Burst」
+DZZ-H13 星热「Ice Dissolver」
+DZZ-H14 月热「Ice Dissolver」
+DZZ-H15 日热「Ice Dissolver」
+DZZ-H16 协力技「Fairy Overdrive」
+DZZ-H17 「Three Fairies」
+!TEM 斯塔符卡名
+DZZ-1 流星「Petit Comet」
+DZZ-2 星粒「Sprinkle Piece」
+DZZ-3 星符「Twinkle Sapphire」
+DZZ-4 星光「Star Laser」
+DZZ-5 流星「Comet Stream」
+DZZ-6 星粒「Star Piece Shower」
+DZZ-7 星符「Shooting Sapphire」
+DZZ-8 星光「Star Storm」
+DZZ-9 星符「Starlight Rain」
+DZZ-10 星符「Red Star」
+DZZ-H1 光符「Rutile Flection」
+DZZ-H2 空符「Elfin Canopy」
+DZZ-H3 光符「Triple Meteor」
+DZZ-H4 光星「Orion Belt」
+DZZ-H5 光符「Bright Night」
+DZZ-H6 空符「Break Canopy」
+DZZ-H7 光符「Extensive Meteor」
+DZZ-H8 光星「Great Triangle」
+DZZ-H9 光符「Full Moon Night」
+DZZ-H10 降光「Triple Light」
+DZZ-H11 光符「Hyper Inflection」
+DZZ-H12 激光「Sun Burst」
+DZZ-H13 星热「Ice Dissolver」
+DZZ-H14 月热「Ice Dissolver」
+DZZ-H15 日热「Ice Dissolver」
+DZZ-H16 协力技「Fairy Overdrive」
+DZZ-H17 「Three Fairies」
+!TEM 幽谷响子符卡名
+SLM-1 响符「Mountain Echo」
+SLM-2 响符「Mountain Echo Scramble」
+SLM-3 响符「Power Resonance」
+SLM-4 山彦「Long-Range Echo」
+SLM-5 山彦「Amplify Echo」
+SLM-6 大声「Charged Cry」
+SLM-7 大声「Charged Yahoo」
+SLM-OD 山彦「山彦的本领发挥回音」
+TXG-1 叫唤「Primal Scream」
+TXG-2 劈音「Piercing Circle」
+TXG-3 经文「无限念佛」
+!TEM 宫古芳香符卡名
+SLM-1 回复「Heal by Desire」
+SLM-2 毒爪「Poison Raze」
+SLM-3 毒爪「Poison Murder」
+SLM-4 欲符「赚钱欲灵招来」
+SLM-5 欲灵「Score Desire Eater」
+SLM-OD 毒爪「不死杀人鬼」
+TXG-1 毒爪「Zombie Claw」
+!TEM 霍青娥符卡名
+SLM-1 邪符「养小鬼」
+SLM-2 邪符「孤魂野鬼」
+SLM-3 入魔「走火入魔」
+SLM-4 降灵「死人童乩」
+SLM-5 通灵「通灵芳香」
+SLM-6 道符「道胎动」
+SLM-OD 道符「TAO胎动　～道～」
+TXG-1 入魔「过剩走火入魔」
+TXG-2 仙术「Wall Runner」
+TXG-3 仙术「穿墙虫洞」
+!TEM 苏我屠自古符卡名
+SLM-1 雷矢「Gagouji Cyclone」
+SLM-2 雷矢「Gagouji Tornado」
+SLM-OD 怨灵「入鹿之雷」
+!TEM 物部布都符卡名
+PYH-1 风符「三轮的皿风暴」
+PYH-2 炎符「太乙真火」
+PYH-3 运气「破局的开门」
+PYH-K1 六壬神火
+PYH-K2 天之磐舟
+PYH-K3 抱水皿
+PYH-K4 贵龙之矢
+PYH-K5 风之凶穴
+PYH-K6 立向坐山
+PYH-OLW|PYH-TLW ＊到死还是少一盘！＊
+PYH-O|PYH-T 「阿菊上勾拳」
+PYH-S1 拳风符「入道丛云风水拳」
+PYH-S2 风灵符「磐舟土器封印」
+PYH-S3 面风符「喜怒哀乐风水术」
+PYH-S4 光风符「光辉风水披风」
+SLM-1 天符「雨之磐舟」
+SLM-2 天符「天之磐舟哟，向天飞升吧」
+SLM-3 投皿「物部氏的八十平瓮」
+SLM-4 炎符「废佛之炎风」
+SLM-5 炎符「火烧樱井寺」
+SLM-6 圣童女「大物忌正餐」
+SLM-OD 圣童女「太阳神的贡品」
+SML-1 风符「三轮的皿风暴」
+SML-2 炎符「太乙真火」
+SML-3 运气「破局的开门」
+SML-K1 六壬神火
+SML-K2 贵龙之矢
+SML-K3 天之磐舟
+SML-K4 风之凶穴
+SML-K5 立向坐山
+SML-K6 抱水皿
+SML-O 阿菊上勾拳
+SML-OLW ＊到死还是少一盘！＊
+SML-S1 皿符「自暴自弃的阿菊」
+SML-S2 ＊从晦暗的古井底＊
+SML-S3 ＊涡轮老太婆走死走爱＊
+TXG-1 古舟「Ancient Ship」
+TXG-2 热龙「火焰龙脉」
+XQL-1 风符「三轮的皿风暴」
+XQL-2 炎符「太乙真火」
+XQL-3 运气「破局的开门」
+XQL-K1 风之凶穴
+XQL-K2 贵龙之矢
+XQL-K3 抱水皿
+XQL-K4 天之磐舟
+XQL-K5 六壬神火
+XQL-K6 立向坐山
+XQL-K7 合局风
+XQL-LW 「大火改新」
+XQL-S1 皿投「土器回转投」
+XQL-S2 弓符「星龙弓」
+!TEM 丰聪耳神子符卡名
+EMRJ-H1 星神符「十七条的超人」
+EMRJ-H2 红神符「十七条大灾变」
+EMRJ-H3 神红符「血腥十七条的光芒」
+PYH-1 仙符「日出之处的道士」
+PYH-2 道符「掌上的天道」
+PYH-3 人符「劝善惩恶古之良典」
+PYH-K1 缩地的披风
+PYH-K2 救世太阳拳
+PYH-K3 十七条光芒
+PYH-K4 黄金之剑西潘戈
+PYH-K5 东方的影响力
+PYH-K6 闪耀者的慈雨
+PYH-OLW|PYH-TLW ＊特别让你两边都选！＊
+PYH-O|PYH-T 「要红的还是要蓝的」
+PYH-S1 光击符「引导着你的王道的金刚杵射击」
+PYH-S2 击光符「韦驮天的王道威光」
+PYH-S3 蹴斩符「迦楼罗的圣德斩」
+PYH-S4 光仙符「日出之国的僧侣和道士」
+PYH-S5 光风符「光辉风水披风」
+PYH-S6 光符「引导着你的梦王道的威光」
+SLM-1 名誉「十二阶之色彩」
+SLM-2 名誉「十二阶之冠位」
+SLM-3 仙符「日出之处的道士」
+SLM-4 仙符「日出之处的天子」
+SLM-5 召唤「豪族乱舞」
+SLM-6 秘宝「斑鸠寺的天球仪」
+SLM-7 秘宝「圣德太子的欧帕兹」
+SLM-8 光符「救世观音的佛光」
+SLM-9 光符「Guse Flash」
+SLM-10 眼光「十七条的光芒」
+SLM-11 神光「无忤为宗」
+SLM-12 「星辰降落的神灵庙」
+SLM-13 「新生的神灵」
+SLM-OD 「神灵大宇宙」
+SML-1 仙符「日出之处的道士」
+SML-2 道符「掌上的天道」
+SML-3 人符「劝善惩恶古之良典」
+SML-EX1 怪人「Bloody Manteau」
+SML-EX2 怪人「被诅咒的红蓝披风」
+SML-EX3 「死生有命　～按自己的意愿做出最渴望的选择吧」
+SML-K1 缩地的披风
+SML-K2 东方的影响力
+SML-K3 十七条光芒
+SML-K4 闪耀者的慈雨
+SML-K5 黄金之剑西潘戈
+SML-O 要红的还是要蓝的
+SML-OLW ＊特别让你两边都选！＊
+SML-S1 怪人「Hermetic Manteau」
+SML-S2 ＊大怪人的动脉与静脉＊
+SML-S3 ＊世纪的怪人红披风蓝披风＊
+TXG-1 「吾乃天道也」
+TXG-2 「十七条宪法炸弹」
+XQL-1 仙符「日出之处的道士」
+XQL-2 道符「掌上的天道」
+XQL-3 人符「劝善惩恶古之良典」
+XQL-K1 缩地的披风
+XQL-K2 十七条光芒
+XQL-K3 探求欲望之魂
+XQL-K4 黄金之剑西潘戈
+XQL-K5 东方的影响力
+XQL-K6 十倍的垂听
+XQL-K7 闪耀者的慈雨
+XQL-LW 「承诏必慎」
+XQL-S1 德符「圣德的威望」
+XQL-S2 光符「无限条光芒」
+!TEM 二岩符卡名
+EMRJ-H1 神星符「真相不明的怪光人潮」
+EMRJ-H2 辉神符「谜之咚咚人潮」
+EMRJ-H3 神绯符「雷雨中的跟踪狂」
+PYH-1 变化「分福热水浴」
+PYH-2 变化「百鬼妖界之门」
+PYH-3 变化「二岩家的制裁」
+PYH-K1 怪奇送行提灯
+PYH-K2 妖怪钓瓶变化
+PYH-K3 空蝉地藏变化
+PYH-K4 腹鼓太鼓达人
+PYH-K5 妖怪网切变化
+PYH-K6 妖怪唐伞变化
+PYH-OLW|PYH-TLW ＊宇宙机密泄露！即刻处置＊
+PYH-O|PYH-T 「Alien Capsule」
+PYH-S1 化火符「妖怪弹幕变化 叶叶烨烨」
+PYH-S2 槌化符「大判小判弹幕变化」
+PYH-S3 雷化符「务光与叶叶的弹幕变化」
+PYH-S4 龙化符「Dragon's Alien Capsule」
+PYH-S5 化符「妖怪弹幕变化 梦见心地」
+SLM-1 一回胜负「灵长类弹幕变化」
+SLM-2 二回胜负「肉食类弹幕变化」
+SLM-3 三回胜负「羽鸟类弹幕变化」
+SLM-4 四回胜负「两栖类弹幕变化」
+SLM-5 五回胜负「鸟兽戏画」
+SLM-6 六回胜负「狸猫的变身学校」
+SLM-7 七回胜负「野生的离岛」
+SLM-8 变化「魔奴化巫女的伪退治」
+SLM-9 「猯藏化弹幕十变化」
+SLM-10 貉符「满月下的腹鼓舞」
+SLM-OD 「Wild Carpet」
+SML-1 变化「分福热水浴」
+SML-2 变化「百鬼妖界之门」
+SML-3 变化「二岩家的制裁」
+SML-K1 怪奇送行提灯
+SML-K2 妖怪网切变化
+SML-K3 妖怪钓瓶变化
+SML-K4 妖怪唐伞变化
+SML-K5 空蝉地藏变化
+SML-O Alien Capsule
+SML-OLW ＊宇宙机密泄露！即刻处置＊
+SML-S1 未确认「幽浮戏画」
+SML-S2 ＊满员的外星人球＊
+SML-S3 ＊差不多该回家了外星人们啊＊
+TXG-1 「杜鹃不啼则待之泣」
+TXG-2 「人类真好啊」
+XQL-1 变化「分福热水浴」
+XQL-2 变化「百鬼妖界之门」
+XQL-3 变化「二岩家的制裁」
+XQL-K1 空蝉地藏变化
+XQL-K2 怪奇送行提灯
+XQL-K3 鸟兽琵琶法师
+XQL-K4 妖怪网切变化
+XQL-K5 妖怪唐伞变化
+XQL-K6 妖怪钓瓶变化
+XQL-K7 妖怪面影变化
+XQL-LW 「八百八狸囃子」
+XQL-S1 变化「满月的花鸟园」
+XQL-S2 变化「鸟兽戏画」
+XQL-S3 变化「百鬼妖界之门」
+XQL-S4 「游戏到此为止了」
+XQL-S5 「弁天的琵琶法师」
+XQL-S6 「神社的佛祖大人」
+!TEM 秦心符卡名
+PYH-1 怒面「愤怒的忌狼之面」
+PYH-2 凭依「喜怒哀乐附体」
+PYH-3 忧面「杞人忧地」
+PYH-K1 忧心的鬼婆面
+PYH-K2 吼怒的妖狐面
+PYH-K3 怒声的大蜘蛛面
+PYH-K4 狂喜的火男面
+PYH-K5 欢喜的狮子面
+PYH-OLW|PYH-TLW ＊就算这样，我也漂亮吧？＊
+PYH-O|PYH-T 「美学的反击技」
+PYH-S1 水面符「水泡弹假面舞会」
+PYH-S2 面风符「喜怒哀乐风水术」
+PYH-S3 面符「喜怒哀乐发狂假面舞会」
+SML-1 怒面「愤怒的忌狼之面」
+SML-2 凭依「喜怒哀乐附体」
+SML-3 忧面「杞人忧地」
+SML-K1 忧心的鬼婆面
+SML-K2 狂喜的火男面
+SML-K3 吼怒的妖狐面
+SML-K4 欢喜的狮子面
+SML-K5 怒声的大蜘蛛面
+SML-O 美学的反击技
+SML-OLW ＊就算这样，我也漂亮吧？＊
+SML-S1 ＊裂口的感情＊
+XQL-1 怒面「愤怒的忌狼之面」
+XQL-2 凭依「喜怒哀乐附体」
+XQL-3 忧面「杞人忧地」
+XQL-K1 吼怒的妖狐面
+XQL-K2 怒声的大蜘蛛面
+XQL-K3 忧叹的长壁面
+XQL-K4 忧心的鬼婆面
+XQL-K5 欢喜的狮子面
+XQL-K6 狂喜的火男面
+XQL-K7 心的轮盘
+XQL-LW 「假面丧心舞 暗黑能乐」
+XQL-S1 忧符「忧世之苦不绝如轮」
+XQL-S2 喜符「昂扬的神乐狮子」
+XQL-S3 怒符「愤怒的忌狼之面」
+XQL-S4 「Monkey Possession」
+!TEM 若鹭姬符卡名
+HZC-1 水符「Tail Fin Slap」
+HZC-2 鳞符「Scale Wave」
+HZC-3 鳞符「逆鳞的惊涛」
+HZC-4 鳞符「逆鳞的大惊涛」
+TXG-1 水符「Lunatic Red Slap」
+TXG-2 潮符「湖中的潮汐波」
+TXG-3 鱼符「School of Fish」
+!TEM 赤蛮奇符卡名
+HZC-1 飞符「Flying Head」
+HZC-2 首符「Close-Eye Shot」
+HZC-3 首符「辘轳首飞来」
+HZC-4 飞头「Multiplicative Head」
+HZC-5 飞头「Seventh Head」
+HZC-6 飞头「Ninth Head」
+HZC-7 飞头「Dullahan Night」
+TXG-1 飞首「Extreme Long Neck」
+TXG-2 眼光「Hell's Ray」
+TXG-3 飞首「Twin Rokuro Head」
+!TEM 今泉影狼符卡名
+HZC-1 牙符「月下的犬齿」
+HZC-2 变身「Triangle Fang」
+HZC-3 变身「Star Fang」
+HZC-4 咆哮「Strange Roar」
+HZC-5 咆哮「满月的远吠」
+HZC-6 狼符「Star Ring Pounce」
+HZC-7 天狼「High-Speed Pounce」
+TXG-1 满月「Full Moon Roar」
+TXG-2 狼牙「渴望鲜血的狼牙」
+!TEM 九十九弁弁符卡名
+HZC-1 平曲「祇园精舍的钟声」
+HZC-2 怨灵「无耳芳一」
+HZC-3 怨灵「平家的大怨灵」
+HZC-4 乐符「邪恶的五线谱」
+HZC-5 乐符「凶恶的五线谱」
+HZC-6 乐符「Double Score」
+HZC-H1 弦乐「风暴的合奏」
+HZC-H2 弦乐「净琉璃世界」
+TXG-1 音符「大热唱琵琶」
+TXG-2 乐谱「Score Web」
+TXG-H 两吟「星辰降落之歌」
+!TEM 九十九八桥符卡名
+HZC-1 琴符「诸行无常的琴声」
+HZC-2 响符「平安的残响」
+HZC-3 响符「Echo Chamber」
+HZC-4 筝曲「下克上送筝曲」
+HZC-5 筝曲「下克上安魂曲」
+HZC-H1 弦乐「风暴的合奏」
+HZC-H2 弦乐「净琉璃世界」
+TXG-1 琴符「天之诏琴」
+TXG-2 哀歌「人琴俱亡」
+TXG-H 两吟「星辰降落之歌」
+!TEM 鬼人正邪符卡名
+HZC-1 欺符「逆针击」
+HZC-2 逆符「镜之国的弹幕」
+HZC-3 逆符「Evil in the Mirror」
+HZC-4 逆符「天地有用」
+HZC-5 逆符「天下翻覆」
+HZC-6 逆弓「天壤梦弓」
+HZC-7 逆弓「天壤梦弓的诏敕」
+HZC-8 逆转「Reverse Hierarchy」
+HZC-9 逆转「Change Air Brave」
+!TEM 少名针妙丸符卡名
+EMRJ-H1 绯针符「要石也给我变大吧」
+EMRJ-H2 辉夜符「蓬莱的巨大弹枝」
+EMRJ-H3 永辉符「变大的壶」
+HZC-1 小弹「小人的道路」
+HZC-2 小弹「小人的荆棘路」
+HZC-3 小槌「变大吧」
+HZC-4 小槌「变得更大吧」
+HZC-5 妖剑「辉针剑」
+HZC-6 小槌「你给我变大吧」
+HZC-7 「进击的小人」
+HZC-8 「Wall of Issun」
+HZC-9 「Hop-o'-My-Thumb Seven」
+HZC-10 「七个一寸法师」
+PYH-1 小槌「传说中的大宴席」
+PYH-2 小人「一寸法师亦有五分之魂」
+PYH-3 钓符「可爱的太公望」
+PYH-K1 天衣百缝
+PYH-K2 绘羽翻改
+PYH-K3 小槌大回转
+PYH-K4 亲碗呼啦圈
+PYH-K5 海老一大回转
+PYH-K6 小人一本钓
+PYH-OLW|PYH-TLW ＊绿巨人啊，变大吧！＊
+PYH-O|PYH-T 「绿色小人摔倒了」
+PYH-S1 槌化符「大判小判弹幕变化」
+PYH-S2 升槌符「载着我们的梦变大吧」
+PYH-S3 坠槌符「梦坠入大气圈变大吧」
+PYH-S4 「全小人族的绯想天」
+PYH-S5 狂槌符「狂视幻象（Disorder Eye）也变大吧」
+PYH-S6 槌恋符「大判小判叮叮当心」
+PYH-S7 槌砾符「大判小判叮叮当念力」
+SML-1 小槌「传说中的大宴席」
+SML-2 小人「一寸法师亦有五分之魂」
+SML-3 钓符「可爱的太公望」
+SML-K1 天衣百缝
+SML-K2 海老一大回转
+SML-K3 绘羽翻改
+SML-K4 小人一本钓
+SML-K5 亲碗呼啦圈
+SML-O 绿色小人摔倒了
+SML-OLW ＊绿巨人啊，变大吧！＊
+SML-S1 大渔「空中大回转钓鱼法」
+SML-S2 ＊幻之国不来夫斯库＊
+TXG-1 「小人的地狱」
+TXG-2 辉针「杀鬼刺双目之针」
+!TEM 堀川雷鼓符卡名
+EMRJ-H1 辉天符「迅雷的咚咚太鼓」
+EMRJ-H2 辉神符「谜之咚咚人潮」
+EMRJ-H3 辉星符「真相不明的咚咚太鼓」
+HZC-1 一鼓「暴乱宫太鼓」
+HZC-2 二鼓「怨灵绫鼓」
+HZC-3 三鼓「午夜零时的三振」
+HZC-4 死鼓「Land Percuss」
+HZC-5 五鼓「雷电拨浪鼓」
+HZC-6 六鼓「Alternate Sticking」
+HZC-7 七鼓「高速和太鼓火箭」
+HZC-8 八鼓「雷神之怒」
+HZC-9 「Blue Lady Show」
+HZC-10 「Pristine beat」
+TXG-1 雷符「愤怒的雷电拨浪鼓」
+TXG-2 太鼓「Fantastic Woofer」
+!TEM 茨木华扇符卡名
+PYH-1 包符「假肢变形」
+PYH-2 龙符「Dragon's Growl」
+PYH-3 鹰符「Hawk Beacon」
+PYH-K1 万岁乐
+PYH-K2 彭祖
+PYH-K3 黄帝
+PYH-K4 竿打
+PYH-K5 务光
+PYH-OLW|PYH-TLW ＊猿之手啊！捏碎敌人！＊
+PYH-O|PYH-T 「难以逃脱的猿之手」
+PYH-S1 灵鹰符「飞鹰的梦想封印狩猎」
+PYH-S2 雷灵符「务光的雷弹梦想封印」
+PYH-S3 龙蹴符「巨龙飞鸟井之踢」
+PYH-S4 雷化符「务光与叶叶的弹幕变化」
+PYH-S5 龙化符「Dragon's Alien Capsule」
+PYH-S6 雷符「务光的雷霆闪光梦幻弹」
+PYH-S7 龙符「Dragon's Optical Dream」
+SML-1 包符「假肢变形」
+SML-2 龙符「Dragon's Growl」
+SML-3 鹰符「Hawk Beacon」
+SML-K1 万岁乐
+SML-K2 竿打
+SML-K3 彭祖
+SML-K4 务光
+SML-K5 黄帝
+SML-O 难以逃脱的猿之手
+SML-OLW ＊猿之手啊！捏碎敌人！＊
+SML-S1 雷符「低速的务光」
+SML-S2 虎符「两门的彭祖」
+SML-S3 ＊到死都会实现愿望的猴爪＊
+SML-S4 ＊猿之手会做一个神秘的梦＊
+!TEM 清兰符卡名
+EMRJ-1 弹符「Eagle Shooting」
+EMRJ-2 弹符「Rabbit Falconer」
+EMRJ-3 梦弹「Lunatic Dream Shoot」
+GZZ-1 凶弹「Speed Strike」
+GZZ-2 弹符「Eagle Shooting」
+GZZ-3 弹符「鹰已击中」
+GZZ-4 铳符「Lunatic Gun」
+!TEM 铃瑚符卡名
+EMRJ-1 兔符「草莓大团子」
+EMRJ-2 兔符「团子三姐妹」
+EMRJ-3 团子「Dango Flower」
+GZZ-1 兔符「Strawberry Dango」
+GZZ-2 兔符「Berry Berry Dango」
+GZZ-3 兔符「Dango Influence」
+GZZ-4 赏月「September Fullmoon」
+GZZ-5 赏月酒「Lunatic September」
+!TEM 哆来咪符卡名
+EMRJ-1 「在最后的周日所做的噩梦」
+GZZ-1 梦符「绯红色的噩梦」
+GZZ-2 梦符「绯红色的压迫噩梦」
+GZZ-3 梦符「蔚蓝色的愁梦」
+GZZ-4 梦符「蔚蓝色的愁三重梦」
+GZZ-5 梦符「愁永远之梦」
+GZZ-6 梦符「刈安色的迷梦」
+GZZ-7 梦符「刈安色的错综迷梦」
+GZZ-8 梦符「Dream Catcher」
+GZZ-9 梦符「苍蓝色的Dream Catcher」
+GZZ-10 梦符「梦我梦中」
+GZZ-11 月符「绀色的狂梦」
+GZZ-12 蝴蝶「Butterfly Supplantation」
+GZZ-13 超特急「Dream Express」
+GZZ-14 爬梦「Creeping Bullet」
+PYH-1 梦符「留绀色的逃走梦」
+PYH-2 梦符「漆黑的宇宙梦」
+PYH-3 羊符「Nightmare of Chimera」
+PYH-K1 Dream Catcher
+PYH-K2 入眠射击
+PYH-K3 Doremy Popping
+PYH-K4 梦气球飞行
+PYH-K5 Beads Crash
+PYH-OLW|PYH-TLW ＊不用再醒来了哦＊
+PYH-O|PYH-T 「干涉梦境之地」
+PYH-S1 超能力「Psychokinesis Endless」
+PYH-S2 梦砾符「羊毛色的念力」
+PYH-S3 灵符「梦想封印 梦限」
+PYH-S4 星符「Asteroid Belt Nightmare」
+PYH-S5 梦要符「羊毛色的乾坤一掷」
+PYH-S6 面符「喜怒哀乐发狂假面舞会」
+PYH-S7 化符「妖怪弹幕变化 梦见心地」
+PYH-S8 光符「引导着你的梦王道的威光」
+PYH-S9 击符「被韦驮天追逐的正梦」
+PYH-S10 雷符「务光的雷霆闪光梦幻弹」
+PYH-S11 龙符「Dragon's Optical Dream」
+PYH-S12 升符「飞向遥远的宇宙吧！ 载着我们的梦想」
+PYH-S13 坠符「落入大气圈，梦想倾泻地表」
+PYH-S14 「把大地重塑成，有梦的世界吧！」
+!TEM 稀神探女符卡名
+EMRJ-1 玉符「铜墙铁壁的阴阳玉」
+EMRJ-2 玉符「众神的难摄之弹冠」
+EMRJ-3 梦鹭「孤翼的梦鹭」
+GZZ-1 玉符「乌合之咒」
+GZZ-2 玉符「乌合的逆咒」
+GZZ-3 玉符「乌合的二重咒」
+GZZ-4 玉符「秽身探知型水雷」
+GZZ-5 玉符「秽身探知型水雷　改」
+GZZ-6 玉符「众神的弹冠」
+GZZ-7 玉符「众神的光辉弹冠」
+GZZ-8 「孤翼的白鹭」
+!TEM 克劳恩符卡名
+EMRJ-1 狱符「Bursting Grudge」
+EMRJ-2 狱符「Double Stripe」
+EMRJ-3 月梦「Eclipse Nightmare」
+GZZ-1 狱符「Hell Eclipse」
+GZZ-2 狱符「地狱之蚀」
+GZZ-3 狱符「Flash and Stripe」
+GZZ-4 狱符「Star and Stripe」
+GZZ-5 狱炎「Graze Inferno」
+GZZ-6 狱炎「擦弹的狱意」
+GZZ-7 地狱「Striped Abyss」
+GZZ-8 「Fake Apollo」
+GZZ-9 「阿波罗捏造说」
+!TEM 纯狐符卡名
+EMRJ-1 「震颤的冰封噩梦」
+EMRJ-2 「Psychedelic Mandara」
+EMRJ-3 「极具威严的纯光」
+EMRJ-4 「噩梦中的切实杀人用弹幕」
+EMRJ-H1 绀珠符「纯粹与不纯的弹幕」
+EMRJ-H2 萃珠符「纯粹的五里雾中」
+EMRJ-H3 永珠符「无秽之珠与多秽之灵」
+GZZ-1 「掌上的纯光」
+GZZ-2 「杀意的百合」
+GZZ-3 「原始的神灵界」
+GZZ-4 「现代的神灵界」
+GZZ-5 「战栗的寒冷之星」
+GZZ-6 「纯粹的狂气」
+GZZ-7 「溢出的瑕秽」
+GZZ-8 「地上秽的纯化」
+GZZ-9 纯符「Purely Bullet Hell」
+GZZ-10 纯符「纯粹的弹幕地狱」
+GZZ-11 「用于逼死瓮中鼠的单纯弹幕」
+GZZ-12 「用于杀人的纯粹弹幕」
+GZZ-H 「最初与最后的无名弹幕」
+!TEM 赫卡提亚符卡名
+EMRJ-1 异界「Distorted Fire」
+EMRJ-2 异界「充满怨恨的地狱之雨」
+EMRJ-3 月「Cosmic Radiation」
+EMRJ-4 异界「逢魔之刻 梦」
+EMRJ-5 「月亮掉下来啦！」
+EMRJ-H1 绀珠符「纯粹与不纯的弹幕」
+EMRJ-H2 永珠符「舍身之反射」
+EMRJ-H3 萃珠符「Mist Ray」
+GZZ-1 异界「逢魔之刻」
+GZZ-2 地球「邪秽在身」
+GZZ-3 月「阿波罗反射镜」
+GZZ-4 异界「地狱的非理想弹幕」
+GZZ-5 地球「落向地狱的雨」
+GZZ-6 月「Lunatic Impact」
+GZZ-7 「Trinitarian Rhapsody」
+GZZ-H 「最初与最后的无名弹幕」
+!TEM 宇佐见堇子符卡名
+EMRJ-1 纸符「ESP卡手里剑」
+EMRJ-H1 纸符「结界中的ESP卡手里剑」
+PYH-1 铳符「3D Printer Gun」
+PYH-2 念力「Psychokinesis APP」
+PYH-3 念力「Telekinesis 通信塔」
+PYH-K1 Urban Psychokinesis
+PYH-K2 Teleportation
+PYH-K3 Telekinesis 电线杆
+PYH-K4 Telekinesis 钢架
+PYH-K5 Hydrokinesis Manhole
+PYH-K6 Chain Mail
+PYH-OLW|PYH-TLW ＊幻视吧！目睹异世界的狂气＊
+PYH-O|PYH-T 召唤二重身
+PYH-S1 超能力「Psychokinesis Endless」
+PYH-S2 梦砾符「羊毛色的念力」
+PYH-S3 W超能力「Psychokinesis Teleportation」
+PYH-S4 W超能力「绝体绝命都市人」
+PYH-S5 「世纪的二重超人 宇佐见堇子」
+PYH-S6 槌砾符「大判小判叮叮当念力」
+SML-1 枪符「3D Printer Gun」
+SML-2 念力「Psychokinesis APP」
+SML-3 念力「Telekinesis 通信塔」
+SML-K1 Urban Psychokinesis
+SML-K2 Telekinesis 钢架
+SML-K3 Teleportation
+SML-K4 Chain Mail
+SML-K5 Hydrokinesis Manhole
+SML-K6 Telekinesis 电线杆
+SML-O Occult Ball
+SML-OLW ＊幻视吧！目睹异世界的狂气＊
+SML-S1 念力「Psycho Plosion」
+SML-S2 念力「Telekinesis 非法投掷物」
+SML-S3 ＊现世的神秘主义者＊
+SML-S4 ＊深秘的七大不可思议＊
+!TEM 依神女苑符卡名
+PYH-1 凭依剥夺「Slave Robber」
+PYH-2 贫符「超贫穷玉」
+PYH-3 「Queen of Bubble」
+PYH-K1 黄金龙卷风
+PYH-K2 香奈儿的手包
+PYH-K3 Celebrity Burn
+PYH-K4 散财上勾拳
+PYH-K5 朱莉安娜羽扇回旋镖
+PYH-OLW|PYH-TLW 「80年代的勒索者」
+PYH-O|PYH-T 「完全凭依姐妹」
+PYH-S1 不幸「欢迎来到极端贫困的世界」
+PYH-S2 财祸「Pluck Pigeon」
+PYH-S3 凭依交换「Absolute Loser」
+PYH-S4 「最强最棒的异变解决巫女」
+!TEM 依神紫苑符卡名
+PYH-S1 不幸「欢迎来到极端贫困的世界」
+PYH-S2 财祸「Pluck Pigeon」
+PYH-S3 凭依交换「Absolute Loser」
+PYH-S4 贫符「Mischance Scatter」
+PYH-S5 「最凶最恶的极贫不幸神」
+!TEM 爱塔符卡名
+EMRJ-1 蝶符「Butterfly Dream」
+EMRJ-2 蝶符「沾身难下的鳞粉」
+EMRJ-3 梦蝶「Crazy Butterfly」
+TKZ-1 蝶符「Minute Scales」
+TKZ-2 蝶符「凤蝶的鳞粉」
+TKZ-3 蝶符「Fluttering Summer」
+TKZ-4 蝶符「盛夏振翅」
+!TEM 坂田合欢符卡名
+EMRJ-1 研符「疯狂闪耀的鬼菜刀」
+EMRJ-2 杀符「穷僻的山姥」
+EMRJ-3 梦尽「杀人鬼之怀」
+TKZ-1 雨符「被囚禁的秋雨」
+TKZ-2 雨符「被诅咒的豪雨」
+TKZ-3 刃符「山姥的菜刀研磨」
+TKZ-4 刃符「山姥的鬼菜刀研磨」
+TKZ-5 尽符「Mountain Murder」
+TKZ-6 尽符「Bloody Mountain Murder」
+!TEM Lily符卡名
+TKZ-1 春符「Surprise Spring」
+!TEM 高丽野阿吽符卡名
+EMRJ-1 陀螺「狛犬大回转」
+EMRJ-2 陀螺「阿吽的闪光」
+EMRJ-3 梦犬「101野犬」
+TKZ-1 犬符「野犬的散步」
+TKZ-2 狗符「山狗的散步」
+TKZ-3 陀螺「狛犬旋转」
+TKZ-4 陀螺「Curl Up and Die」
+TKZ-5 狛符「单人式阿吽的呼吸」
+!TEM 矢田寺成美符卡名
+EMRJ-1 魔符「慈爱的地藏」
+EMRJ-2 地藏「菩萨践踏」
+EMRJ-3 地藏「生机勃勃的弹幕魔像」
+EMRJ-4 梦地藏「劫火的希望」
+TKZ-1 魔符「Instant Bodhi」
+TKZ-2 魔符「即席菩提」
+TKZ-3 魔符「Bullet Golem」
+TKZ-4 魔符「作宠物的巨大弹生命体」
+TKZ-5 地藏「Criminal Salvation」
+TKZ-6 地藏「业火救济」
+!TEM 尔子田里乃符卡名
+EMRJ-1 茗荷「Mesmerism Dance」
+EMRJ-2 冥加「Behind Nightmare」
+TKZ-1 茗荷「Forget Your Name」
+TKZ-2 冥加「Behind You」
+TKZ-H1 舞符「Behind Festival」
+TKZ-H2 狂舞「天狗怖吓」
+TKZ-H3 狂舞「狂乱天狗怖吓」
+TKZ-H4 鼓舞「Powerful Cheers」
+TKZ-H5 狂舞「Crazy Back Dance」
+TKZ-H6 弹舞「双目台风」
+!TEM 丁礼田舞符卡名
+EMRJ-1 竹符「Bamboo Labyrinth」
+EMRJ-2 笹符「Tanabata Star Dream」
+TKZ-1 竹符「Bamboo Spear Dance」
+TKZ-2 竹符「Bamboo Crazy Dance」
+TKZ-3 笹符「Tanabata Star Festival」
+TKZ-H1 舞符「Behind Festival」
+TKZ-H2 狂舞「天狗怖吓」
+TKZ-H3 狂舞「狂乱天狗怖吓」
+TKZ-H4 鼓舞「Powerful Cheers」
+TKZ-H5 狂舞「Crazy Back Dance」
+TKZ-H6 弹舞「双目台风」
+!TEM 摩多罗隐岐奈符卡名
+EMRJ-1 秘仪「Matara Sukha」
+EMRJ-2 秘仪「背面的邪炎」
+EMRJ-3 后符「绝对秘神的后光」
+EMRJ-4 秘仪「秘神的暗跃弹幕」
+EMRJ-5 秘仪「神秘的玉茧」
+EMRJ-H1 「秘神结界」
+EMRJ-H2 「来自背后的偷拍者降服」
+EMRJ-H3 「卑鄙者极限火花」
+TKZ-1 后符「秘神的后光」
+TKZ-2 后符「绝对秘神的后光」
+TKZ-3 里夏「Scorch by Hot Summer」
+TKZ-4 里夏「异常酷暑之焦土」
+TKZ-5 里秋「Die of Famine」
+TKZ-6 里秋「异常枯死之饿鬼」
+TKZ-7 里冬「Black Snowman」
+TKZ-8 里冬「异常降雪之雪人」
+TKZ-9 里春「April Wizard」
+TKZ-10 里春「异常落花之魔术使」
+TKZ-11 「里·Breezy Cherry Blossom」
+TKZ-12 「里·Perfect Summer Ice」
+TKZ-13 「里·Crazy Fall Wind」
+TKZ-14 「里·Extreme Winter」
+TKZ-15 秘仪「Reverse Invoker」
+TKZ-16 秘仪「背叛的后方射击」
+TKZ-17 秘仪「弹幕的玉茧」
+TKZ-18 秘仪「秽那之火」
+TKZ-19 秘仪「后户的狂言」
+TKZ-20 秘仪「Matarah Dukkha」
+TKZ-21 秘仪「七星之剑」
+TKZ-22 秘仪「无纽带的艺人」
+TKZ-23 「背面的暗黑猿乐」
+TKZ-24 「Anarchy Bullet Hell」
+!TEM 戎璎花符卡名
+GXS-1 石符「Stone Woods」
+GXS-2 石符「Stone Conifer」
+GXS-3 石符「Children's Limbo」
+GXS-4 石符「Adult Children's Limbo」
+!TEM 牛崎润美符卡名
+GXS-1 石符「Stone Baby」
+GXS-2 石符「Heavy Stone Baby」
+GXS-3 溺符「三途的沦溺」
+GXS-4 鬼符「Demon Siege」
+GXS-5 鬼符「Hungry Demon Siege」
+!TEM 庭渡久侘歌符卡名
+GXS-1 水符「分水的试练」
+GXS-2 水符「分水的上级试炼」
+GXS-3 水符「分水的顶级试炼」
+GXS-4 光符「瞭望的试练」
+GXS-5 光符「瞭望的上级试炼」
+GXS-6 光符「瞭望的顶级试炼」
+GXS-7 鬼符「鬼渡的试练」
+GXS-8 鬼符「鬼渡的上级试炼」
+GXS-9 鬼符「鬼渡的狱级试炼」
+GXS-10 血战「血之分水岭」
+GXS-11 血战「狱界视线」
+GXS-12 血战「全灵鬼渡」
+!TEM 吉吊八千慧符卡名
+GXS-1 龟符「龟甲地狱」
+GXS-2 鬼符「邪道之畜生」
+GXS-3 鬼符「邪道之狗畜生」
+GXS-4 鬼符「邪道之鬼畜生」
+GXS-5 龙符「龙纹弹」
+!TEM 杖刀偶磨弓符卡名
+GXS-1 埴轮「弓兵埴轮」
+GXS-2 埴轮「熟练弓兵埴轮」
+GXS-3 埴轮「剑士埴轮」
+GXS-4 埴轮「熟练剑士埴轮」
+GXS-5 埴轮「骑马兵埴轮」
+GXS-6 埴轮「熟练骑马兵埴轮」
+GXS-7 埴轮「空洞的无尽兵团」
+GXS-8 埴轮「不败的无尽兵团」
+!TEM 埴安神袿姬符卡名
+GXS-1 方形「方形造形术」
+GXS-2 方形「Square Creature」
+GXS-3 圆形「正圆造形术」
+GXS-4 圆形「Circle Creature」
+GXS-5 线形「线形造形术」
+GXS-6 线形「Linear Creature」
+GXS-7 埴轮「偶像人马造形术」
+GXS-8 埴轮「Idol Creature」
+GXS-9 「鬼形造形术」
+GXS-10 「Geometric Creature」
+GXS-11 「Idola Diabolus」
+!TEM 骊驹早鬼符卡名
+GXS-1 劲疾技「Thrilling Shot」
+GXS-2 劲疾技「Lightning Neigh」
+GXS-3 劲疾技「Dense Cloud」
+GXS-4 劲疾技「Beast Epidemicity」
+GXS-5 劲疾技「Triangle Chase」
+GXS-6 劲疾技「黑色天马流星弹」
+GXS-7 劲疾技「Muscle Explosion」
+GXS-8 「Follow Me, Unafraid」
+GXS-9 「鬼形的乌合之众」
+GXS-10 「鬼畜生之所为」
+!TEM 豪德寺三花符卡名
+HLD-1 招符「弹幕万来」
+HLD-2 招符「弹灾招福」
+!TEM 山城高岭符卡名
+HLD-1 森符「木隐的技术」
+HLD-2 森符「极·木隐的技术」
+HLD-3 森符「真·木隐的技术」
+HLD-4 森符「最深的森域」
+HLD-5 森符「极·最深的森域」
+HLD-6 森符「真·最深的森域」
+HLD-7 叶技「Green Spiral」
+HLD-8 叶技「Green Cyclone」
+HLD-9 叶技「Green Tornado」
+!TEM 驹草山如符卡名
+HLD-1 山符「惊天的云间草」
+HLD-2 山怪「惊愕的云间草」
+HLD-3 山符「妖光闪闪的薄雪草」
+HLD-4 山怪「妖魔喧嚣的薄雪草」
+HLD-5 山花「杀戮的驹草」
+HLD-6 山花「杀戮的山之女王」
+!TEM 玉造魅须丸符卡名
+HLD-1 玉符「虹龙阴阳玉」
+HLD-2 玉符「阴阳神玉」
+HLD-3 玉将「Queen of Yin Yang Sphere」
+HLD-4 女王珠「彩虹门的另一侧」
+HLD-5 「阴阳窒息」
+!TEM 菅牧典符卡名
+HLD-1 狐符「Fox Winder」
+HLD-2 管狐「Cylinder Fox」
+HLD-3 星狐「天狐龙星之舞」
+!TEM 饭纲丸龙符卡名
+HLD-1 祸星「星火燎原之舞」
+HLD-2 祸星「星火燎原乱舞」
+HLD-3 星风「虹彩陆离之舞」
+HLD-4 星风「虹彩陆离乱舞」
+HLD-5 光马「天马行空之舞」
+HLD-6 光马「天马行空乱舞」
+HLD-7 虹光「光风霁月」
+!TEM 天弓千亦符卡名
+HLD-1 「向无主的贡品」
+HLD-2 「弹幕收集狂的妄执」
+HLD-3 「Bullet Market」
+HLD-4 「高密度弹幕市场」
+HLD-5 「弹幕自由市场」
+HLD-6 「虹人环」
+HLD-7 「Bullet Dominion」
+HLD-8 「暴虐的弹幕领土」
+HLD-9 「无道的弹幕领土」
+HLD-10 「弹幕的庇护所」
+!TEM 姬虫百百世符卡名
+HLD-1 蛊毒「Cannibalistic Insect」
+HLD-2 蛊毒「Cave Swarmer」
+HLD-3 蛊毒「Sky Pendra」
+HLD-4 采掘「不断累积的矿山废石」
+HLD-5 采掘「Mine Blast」
+HLD-6 采掘「妖怪们的盾构法」
+HLD-7 大蜈蚣「Snake Eater」
+HLD-8 大蜈蚣「Dragon Eater」
+HLD-9 「蛊毒的美食家」
+HLD-10 「虫姬殿下的闪耀忙乱的日常」
+

@@ -1,6 +1,8 @@
 # Touhou-QQBot (Mirai & Graia Framework)
 
-<img src="assets/avatar.jpg" width="300px">
+<div align="center">
+	<img src="assets/avatar.jpg" width="300px">
+</div>
 
 ### 简介
 
@@ -8,7 +10,7 @@
 
 稳定运行的 Python 版本  ![python3](https://img.shields.io/badge/python-3.8.5-blue)  
 
-稳定运行的服务器  ![](https://img.shields.io/badge/CentOS-7-yellow)
+稳定运行的服务器的操作系统  ![](https://img.shields.io/badge/CentOS-7-yellow)
 
 感谢以下开源项目给本项目给予的诸多帮助：
 

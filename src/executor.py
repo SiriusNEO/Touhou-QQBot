@@ -651,6 +651,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                 text_str += MODE_NAME_QUIET
             elif command.args[0] == MODE_ARG_CRAZY:
                 text_str += MODE_NAME_CRAZY
+            else:
+                text_str = ARG_ERROR
 
     elif command.typ == CommandType.EXIT:
         if commander is None or commander.id == ROOT:

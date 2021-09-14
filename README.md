@@ -15,7 +15,7 @@
 感谢以下开源项目给本项目给予的诸多帮助：
 
 - [mirai](https://github.com/mamoe/mirai) 高效率 QQ 机器人支持库
-- [GraiaApplication][https://github.com/GraiaProject/Application]  基于 mirai-api-http 的 Python 框架
+- [GraiaApplication](https://github.com/GraiaProject/Application)  基于 mirai-api-http 的 Python 框架
 
 **警告：由于腾讯的风控，该机器人并不稳定，很可能会发生局部功能失效、版本落后等情况，请谨慎食用！**
 

@@ -641,6 +641,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                 text_str += MODE_NAME_QUIET
             elif command.mode == 3:
                 text_str += MODE_NAME_CRAZY
+            elif command.mode == 4:
+                text_str += MODE_NAME_JUDGE    
         elif len(command.args) == 1:
             text_str += "模式切换成功："
             if command.args[0] == MODE_ARG_NORMAL:
@@ -651,6 +653,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                 text_str += MODE_NAME_QUIET
             elif command.args[0] == MODE_ARG_CRAZY:
                 text_str += MODE_NAME_CRAZY
+            elif command.args[0] == MODE_ARG_JUDGE:
+                text_str += MODE_NAME_JUDGE
             else:
                 text_str = ARG_ERROR
 

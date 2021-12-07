@@ -26,7 +26,8 @@ DETAIL_DOC =   "BOT名：" + BOT_NAME + \
                "\n目前版本：" + str(VERSION) + \
                "\nBOT敏感符号：" + TRIGGER + \
                "\n空格替代符：" + BLANK_REPLACE + \
-               "\n更新日志：bot模式切换，更加舒适的体验"
+               "\n更新日志：图片打分系统" + \
+               "\n注意事项：由于枝江网站原因，asoul模块暂不可用"
 
 
 HINT_DOC = "小技巧："\
@@ -85,7 +86,7 @@ COMMENT_DOC = "使用格式：" + TRIGGER + COMMENT_INS + " <参数>" + \
 ALARM_DOC = "使用格式：" + TRIGGER + ALARM_INS + " <参数>" + \
             "\n参数列表：" + \
             "\n" + TAB + "(缺省)" + TAB + "显示所有闹钟" + \
-            "\n" + TAB + "<时：分>" + TAB + "<提示文字>" + TAB + "设置闹钟" + \
+            "\n" + TAB + TIME_FORMAT + TAB + "<提示文字>" + TAB + "设置闹钟" + \
             "\n" + TAB + DEL_ARG + TAB + "<时：分>" + TAB + "删除闹钟"
 
 ASOUL_DOC = "使用格式：" + TRIGGER + ASOUL_INS + " <参数>" + \
@@ -121,7 +122,8 @@ MODE_DOC = "使用格式：" + TRIGGER + MODE_INS + " <参数>" + \
            "\n" + TAB + MODE_ARG_NORMAL + TAB + MODE_NAME_NORMAL + \
            "\n" + TAB + MODE_ARG_SILENT + TAB + MODE_NAME_SILENT + "，只执行指令" + \
            "\n" + TAB + MODE_ARG_QUIET + TAB + MODE_NAME_QUIET + "，关键字概率触发" + \
-           "\n" + TAB + MODE_ARG_CRAZY + TAB + MODE_ARG_CRAZY + "，异常积极"
+           "\n" + TAB + MODE_ARG_CRAZY + TAB + MODE_NAME_CRAZY + "，异常积极" + \
+           "\n" + TAB + MODE_ARG_JUDGE + TAB + MODE_NAME_JUDGE + "，点评点评"
 
 GOOD_MORNING = "又是新的一天！今天是："
 

@@ -2,6 +2,21 @@ from executor import *
 import datetime
 import global_v
 
+def pic_level(score: int):
+    if score < 10:
+        return "几把"
+    elif score < 30:
+        return "不太行"
+    elif score < 50:
+        return "一般般"
+    elif score < 70:
+        return "小行"
+    elif score < 85:
+        return "彳亍"
+    elif score < 95:
+        return "好好好好好"
+    return "行中行之大行特行"
+
 class NCRunner:
     app: GraiaMiraiApplication
     target_group: Group
@@ -23,10 +38,14 @@ class NCRunner:
     async def send_text(self, text: str):
         await self.app.sendGroupMessage(self.target_group, MessageChain.create([Plain(text)]))
 
+    async def reply_text(self, text: str, message: MessageChain):
+        await self.app.sendGroupMessage(self.target_group, MessageChain.create([Plain(text)]), 
+                                        quote = message.get(Source)[0])    
+
     async def send_local_image(self, path: str):
         await self.app.sendGroupMessage(self.target_group, MessageChain.create([Image.fromLocalFile(path)]))
 
-    async def react(self, message: MessageChain):
+    async def react(self, message: MessageChain,):
         await self.async_init()
         hit = False
 
@@ -35,6 +54,15 @@ class NCRunner:
         if global_v.bot_mode != 3 and delta.seconds <= 15:  # 15s 冷静期
             return hit
 
+        # judge img
+        if global_v.bot_mode == 4 and message.has(Image):
+            time.sleep(RANDOM_WAIT)
+            random.seed()
+            judge_score = random.randint(1, 100)
+            time.sleep(THINK_WAIT)
+            await self.reply_text("评价为" + pic_level(judge_score), message) 
+
+        # react img
         if os.path.exists(IMG_MAP_PATH):
             fp = open(IMG_MAP_PATH, "r")
             img_map = json.load(fp)
@@ -53,6 +81,7 @@ class NCRunner:
                     hit = True
                     break
 
+        # react comment
         if os.path.exists(COMMENT_PATH):
             fp = open(COMMENT_PATH, "r")
             comments = json.load(fp=fp)

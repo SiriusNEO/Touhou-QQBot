@@ -71,6 +71,8 @@ async def group_message_listener(app: GraiaMiraiApplication,
                     global_v.bot_mode = 2
                 elif execute_result[0] == Plain("模式切换成功：" + MODE_NAME_CRAZY):
                     global_v.bot_mode = 3
+                elif execute_result[0] == Plain("模式切换成功：" + MODE_NAME_JUDGE):
+                    global_v.bot_mode = 4
 
             # Not Command Part
             if global_v.bot_mode != 1:

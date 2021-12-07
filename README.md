@@ -8,6 +8,8 @@
 
 自用的 qq 群娱乐机器人，适用于东方 Project 相关群聊。
 
+目前版本：![python3](https://img.shields.io/badge/version-0.9-red)
+
 稳定运行的 Python 版本  ![python3](https://img.shields.io/badge/python-3.8.5-blue)  
 
 稳定运行的服务器的操作系统  ![](https://img.shields.io/badge/CentOS-7-yellow)
@@ -92,9 +94,10 @@ OTHER_BOTS = []
 - [x] 抽东方人物
 - [x] 自动复读
 - [x] 评论
-- [x] 小作文发病
+- [x] ~~小作文发病~~ asoul 模块暂不可用
 - [x] 非命令格式的怪话回复
 - [x] 整点报时、闹钟
+- [x] 图片点评
 
 
 

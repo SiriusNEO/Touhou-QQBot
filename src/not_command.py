@@ -2,20 +2,15 @@ from executor import *
 import datetime
 import global_v
 
-def pic_level(score: int):
-    if score < 10:
-        return "几把"
-    elif score < 30:
-        return "不太行"
-    elif score < 50:
-        return "一般般"
-    elif score < 70:
-        return "小行"
-    elif score < 85:
-        return "彳亍"
-    elif score < 95:
-        return "好好好好好"
-    return "行中行之大行特行"
+judge_commment = [
+    "几把", "不太行", "一般般", "小行", "彳亍", "好好好好好", "行中行之大行特行",
+    "社了", "傻逼", "乐", "好大", "该冲了", "k48", "?", "出货了", "不评价", "臭寄吧",
+    "鬼！", "小好", "你是傻逼？", "草", "爹", "癌症晚期", "ybb", "好活", "滑了",
+    "就那样", "普通", "你爹", "不够色", "色", "再来点", "急了", "有点烂", "有点好",
+    "超市", "🥵", "🤤", "🥵🥵🥵", "😅", "狗头", "suki", "你再发？", "寄", "我不好说",
+    "郭楠", "大便", "勾八", "cfy", "东方project", "福州一中", "alksdjflskjfs", "%$^&*^*&^?>",
+    "古神", "不可名状", ""
+]
 
 class NCRunner:
     app: GraiaMiraiApplication
@@ -58,9 +53,9 @@ class NCRunner:
         if global_v.bot_mode == 4 and message.has(Image):
             time.sleep(RANDOM_WAIT)
             random.seed()
-            judge_score = random.randint(1, 100)
+            judge = random.randint(0, len(judge_commment))
             time.sleep(THINK_WAIT)
-            await self.reply_text("评价为" + pic_level(judge_score), message) 
+            await self.reply_text("评价为" + judge_commment[judge], message) 
 
         # react img
         if os.path.exists(IMG_MAP_PATH):

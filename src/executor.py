@@ -189,7 +189,7 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                             rp_dict = json.load(fp=fp)
                             if command.args[1] == ARG_LS:
                                 rp_list = list(rp_dict)
-                                text_str += "当前运势词库："
+                                text_str += "当前运势词库, 共有 {:d} 个：\n".format(len(rp_list))
                                 if len(rp_list) > OVERFLOW_LEN:
                                     rp_list = rp_list[len(rp_list)-OVERFLOW_LEN:len(rp_list)]
                                     text_str += "..."
@@ -275,8 +275,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
         else:
             comments = dict()
         if len(command.args) == 0:
-            text_str += "当前可以评论："
             comments_list = list(comments)
+            text_str += "当前可以评论的条目, 共有 {:d} 个：\n".format(len(comments_list))
             if len(comments_list) > OVERFLOW_LEN:
                 text_str += "..."
                 comments_list = comments_list[len(comments_list)-OVERFLOW_LEN:len(comments_list)]
@@ -288,60 +288,86 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                     text_str += "*"
                 elif comments[comments_list[i]][1] == 2:
                     text_str += "^"
-        elif len(command.args) == 1:
-            command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
-            if command.args[0] in comments:
-                text_str += comments[command.args[0]][0]
-            elif command.args[0].find(RANDOM_INS) == 0:
-                command.times = random_parser(command.args[0])
-                if command.times <= 0 or command.times > TIMES_LIMIT:
-                    text_str = TIMES_ERROR
+        else:
+            if command.message.has(Quote):
+                quote_message = command.message.get(Quote)[0].origin
+                if not quote_message.has(Plain):
+                    text_str += PLAIN_ERROR
                 else:
-                    for tim in range(command.times):
-                        time.sleep(RANDOM_WAIT)
-                        random.seed()
-                        if tim >= 1:
-                            text_str += "\n"
-                        comments_list = list(comments)
-                        index = random.randint(1, len(comments_list))
-                        text_str += comments[comments_list[index-1]][0]
+                    quote_text = quote_message.get(Plain)[0].asDisplay()
+                    if len(command.args) == 1:
+                        command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
+                        comments[command.args[0]] = (quote_text, False)
+                        fp = open(COMMENT_PATH, "w")
+                        json.dump(comments, fp)
+                        fp.close()
+                        text_str += "评论添加成功！"
+                    elif len(command.args) == 2:
+                        command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
+                        if command.args[1] == ARG_KEY:
+                            comments[command.args[0]] = (quote_text, 2)
+                        elif command.args[1] == ARG_AUTO:
+                            comments[command.args[0]] = (quote_text, 1)
+                        else:
+                            comments[command.args[0]] = (quote_text, 0)
+                        fp = open(COMMENT_PATH, "w")
+                        json.dump(comments, fp)
+                        fp.close()
+                        text_str += "评论添加成功！"
             else:
-                text_str += COMMENT_ERROR
-        elif len(command.args) == 2:
-            if command.args[0] == DEL_ARG:
-                command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
-                if command.args[1] not in comments:
-                    text_str = NOT_FOUND_ERROR
-                else:
-                    comments.pop(command.args[1])
+                if len(command.args) == 1:
+                    command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
+                    if command.args[0] in comments:
+                        text_str += comments[command.args[0]][0]
+                    elif command.args[0].find(RANDOM_INS) == 0:
+                        command.times = random_parser(command.args[0])
+                        if command.times <= 0 or command.times > TIMES_LIMIT:
+                            text_str = TIMES_ERROR
+                        else:
+                            for tim in range(command.times):
+                                time.sleep(RANDOM_WAIT)
+                                random.seed()
+                                if tim >= 1:
+                                    text_str += "\n"
+                                comments_list = list(comments)
+                                index = random.randint(1, len(comments_list))
+                                text_str += comments[comments_list[index-1]][0]
+                    else:
+                        text_str += COMMENT_ERROR
+                elif len(command.args) == 2:
+                    if command.args[0] == DEL_ARG:
+                        command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
+                        if command.args[1] not in comments:
+                            text_str = NOT_FOUND_ERROR
+                        else:
+                            comments.pop(command.args[1])
+                            fp = open(COMMENT_PATH, "w")
+                            json.dump(comments, fp)
+                            fp.close()
+                            text_str += "评论删除成功！"
+                    else:
+                        command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
+                        command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
+                        comments[command.args[0]] = (command.args[1], False)
+                        fp = open(COMMENT_PATH, "w")
+                        json.dump(comments, fp)
+                        fp.close()
+                        text_str += "评论添加成功！"
+                elif len(command.args) == 3:
+                    command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
+                    command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
+                    if command.args[2] == ARG_KEY:
+                        comments[command.args[0]] = (command.args[1], 2)
+                    elif command.args[2] == ARG_AUTO:
+                        comments[command.args[0]] = (command.args[1], 1)
+                    else:
+                        comments[command.args[0]] = (command.args[1], 0)
                     fp = open(COMMENT_PATH, "w")
                     json.dump(comments, fp)
                     fp.close()
-                    text_str += "评论删除成功！"
-            else:
-                command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
-                command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
-                comments[command.args[0]] = (command.args[1], False)
-                fp = open(COMMENT_PATH, "w")
-
-                json.dump(comments, fp)
-                fp.close()
-                text_str += "评论添加成功！"
-        elif len(command.args) == 3:
-            command.args[0] = command.args[0].replace(BLANK_REPLACE, " ")
-            command.args[1] = command.args[1].replace(BLANK_REPLACE, " ")
-            if command.args[2] == ARG_KEY:
-                comments[command.args[0]] = (command.args[1], 2)
-            elif command.args[2] == ARG_AUTO:
-                comments[command.args[0]] = (command.args[1], 1)
-            else:
-                comments[command.args[0]] = (command.args[1], 0)
-            fp = open(COMMENT_PATH, "w")
-            json.dump(comments, fp)
-            fp.close()
-            text_str += "评论添加成功！"
-        else:
-            text_str = ARG_ERROR
+                    text_str += "评论添加成功！"
+                else:
+                    text_str = ARG_ERROR
 
     elif command.typ == CommandType.ALARM:
         if os.path.exists(ALARM_PATH):
@@ -351,7 +377,7 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
         else:
             alarms = dict()
         if len(command.args) == 0:
-            text_str += "当前闹钟："
+            text_str += "当前闹钟, 共有 {:d} 个：".format(len(alarms))
             for alarm in alarms:
                 if len(alarms[alarm]) > 5:
                     text_str += "\n" + alarm + TAB + alarms[alarm][:5] + "..."
@@ -524,8 +550,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
         else:
             img_map = dict()
         if len(command.args) == 0:
-            text_str += "当前可以查看："
             img_map_list = list(img_map)
+            text_str += "当前可以查看图片, 共有 {:d} 张：\n".format(len(img_map_list))
             if len(img_map_list) > OVERFLOW_LEN:
                 text_str += "..."
                 img_map_list = img_map_list[len(img_map_list) - OVERFLOW_LEN:len(img_map_list)]
@@ -686,7 +712,8 @@ async def execute(command: Command, commander: Member, fetcher: Fetcher):
                 sender.append(Image.fromLocalFile(IMG_PATH + "tmp.png"))
 
     if at_id > 0:
-        sender.append(At(at_id))
+        # sender.append(At(at_id))
+        text_str = "@" + str(at_id) + " " + text_str
         if command.times > 1 and text_str != TIMES_ERROR:
             sender.append(Plain("\n" + text_str))
         else:

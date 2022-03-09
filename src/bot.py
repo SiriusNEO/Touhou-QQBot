@@ -11,8 +11,8 @@ app = GraiaMiraiApplication(
     broadcast=bcc,
     connect_info=Session(
         host="http://" + HOST + ":" + PORT,  # 填入 httpapi 服务运行的地址
-        authKey="miraikey",  # 填入 authKey
-        account=1378438181,  # 你的机器人的 qq 号
+        authKey=AUTHKEY,  # 填入 authKey
+        account=ACCOUNT,  # 你的机器人的 qq 号
         websocket=True  # Graia 已经可以根据所配置的消息接收的方式来保证消息接收部分的正常运作.
     )
 )
@@ -60,6 +60,7 @@ async def group_message_listener(app: GraiaMiraiApplication,
             # Command Part
             if command.typ != CommandType.ERROR:
                 execute_result = await execute(command, member, fetcher)
+                print("execute: ", execute_result)
                 await app.sendGroupMessage(group, MessageChain.create(execute_result))
                 if execute_result[0] == Plain(OFFLINE):
                     exit(0)

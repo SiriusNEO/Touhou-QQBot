@@ -17,6 +17,7 @@ def is_Chinese(ch):
 class Fetcher:
 
     def __init__(self):
+        return
         chrome_options = Options()
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--disable-gpu')

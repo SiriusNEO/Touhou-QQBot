@@ -7,6 +7,7 @@ RANDOM_RESULT = "噔噔噔，结果是："
 ARG_ERROR = "狗咩纳塞，参数格式有问题噢..."
 PRIV_ERROR = "狗咩纳塞，权限不够哦..."
 COMMENT_ERROR = "我不好说"
+PLAIN_ERROR = "无文，撤"
 IMG_ERROR = "无图，撤"
 NOT_FOUND_ERROR = "404 Not Found，请仔细检查一下~"
 DONT_MATCH_ERROR = "时间格式不匹配哦~"
@@ -26,7 +27,7 @@ DETAIL_DOC =   "BOT名：" + BOT_NAME + \
                "\n目前版本：" + str(VERSION) + \
                "\nBOT敏感符号：" + TRIGGER + \
                "\n空格替代符：" + BLANK_REPLACE + \
-               "\n更新日志：图片打分系统" + \
+               "\n更新日志：修复了一些问题" + \
                "\n注意事项：由于枝江网站原因，asoul模块暂不可用"
 
 

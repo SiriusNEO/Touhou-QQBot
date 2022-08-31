@@ -1,3 +1,7 @@
+# (Deprecated) 本项目已被新一代机器人取代: [Moment](https://github.com/SiriusNEO/Moment)
+
+本项目已停止维护、更新，并不对将来可能发生的版本更迭、api变化负责。
+
 # Touhou-QQBot (Mirai & Graia Framework)
 
 <div align="center">
